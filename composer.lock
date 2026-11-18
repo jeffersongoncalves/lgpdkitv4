@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "b04a1f67fde6b7d1b60181b43d2bdfbb",
+    "content-hash": "3d20867eda834681c99a5723b64e3ed3",
     "packages": [
         {
             "name": "achyutn/filament-log-viewer",
@@ -154,7 +154,8 @@
                 "issues": "https://github.com/AnourValar/eloquent-serialize/issues",
                 "source": "https://github.com/AnourValar/eloquent-serialize/tree/1.3.12"
             },
-            "time": "2026-09-13T06:25:37+00:00"
+            "time": "2026-09-13T06:25:37+00:00",
+            "published-time": "2026-09-13T06:26:57+00:00"
         },
         {
             "name": "blade-ui-kit/blade-heroicons",
@@ -223,35 +224,36 @@
                     "type": "paypal"
                 }
             ],
-            "time": "2026-03-16T13:00:23+00:00"
+            "time": "2026-03-16T13:00:23+00:00",
+            "published-time": "2026-03-17T12:44:41+00:00"
         },
         {
             "name": "blade-ui-kit/blade-icons",
-            "version": "1.10.1",
+            "version": "1.11.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/driesvints/blade-icons.git",
-                "reference": "6e072d021ea6249986c330b93293c33d0c4f0e34"
+                "reference": "9a6e9f0cd96f482d01d4c5c32166119c59e514fc"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/driesvints/blade-icons/zipball/6e072d021ea6249986c330b93293c33d0c4f0e34",
-                "reference": "6e072d021ea6249986c330b93293c33d0c4f0e34",
+                "url": "https://api.github.com/repos/driesvints/blade-icons/zipball/9a6e9f0cd96f482d01d4c5c32166119c59e514fc",
+                "reference": "9a6e9f0cd96f482d01d4c5c32166119c59e514fc",
                 "shasum": ""
             },
             "require": {
-                "illuminate/contracts": "^8.0|^9.0|^10.0|^11.0|^12.0|^13.0",
-                "illuminate/filesystem": "^8.0|^9.0|^10.0|^11.0|^12.0|^13.0",
-                "illuminate/support": "^8.0|^9.0|^10.0|^11.0|^12.0|^13.0",
-                "illuminate/view": "^8.0|^9.0|^10.0|^11.0|^12.0|^13.0",
-                "php": "^7.4|^8.0",
-                "symfony/console": "^5.3|^6.0|^7.0|^8.0",
-                "symfony/finder": "^5.3|^6.0|^7.0|^8.0"
+                "illuminate/contracts": "^12.0|^13.0",
+                "illuminate/filesystem": "^12.0|^13.0",
+                "illuminate/support": "^12.0|^13.0",
+                "illuminate/view": "^12.0|^13.0",
+                "php": "^8.2",
+                "symfony/console": "^7.0|^8.0",
+                "symfony/finder": "^7.0|^8.0"
             },
             "require-dev": {
                 "mockery/mockery": "^1.5.1",
-                "orchestra/testbench": "^6.0|^7.0|^8.0|^9.0|^10.0|^11.0",
-                "phpunit/phpunit": "^9.0|^10.5|^11.0"
+                "orchestra/testbench": "^10.0|^11.0",
+                "phpunit/phpunit": "^11.0"
             },
             "bin": [
                 "bin/blade-icons-generate"
@@ -304,7 +306,8 @@
                     "type": "paypal"
                 }
             ],
-            "time": "2026-06-30T09:44:12+00:00"
+            "time": "2026-11-09T12:00:40+00:00",
+            "published-time": "2026-11-09T12:02:12+00:00"
         },
         {
             "name": "brick/math",
@@ -364,7 +367,8 @@
                     "type": "github"
                 }
             ],
-            "time": "2026-09-12T10:28:18+00:00"
+            "time": "2026-09-12T10:28:18+00:00",
+            "published-time": "2026-09-12T12:23:30+00:00"
         },
         {
             "name": "carbonphp/carbon-doctrine-types",
@@ -438,7 +442,8 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2026-09-06T14:11:38+00:00"
+            "time": "2026-09-06T14:11:38+00:00",
+            "published-time": "2026-09-06T14:15:00+00:00"
         },
         {
             "name": "chillerlan/php-qrcode",
@@ -531,7 +536,8 @@
                     "type": "Ko-Fi"
                 }
             ],
-            "time": "2025-11-23T23:51:44+00:00"
+            "time": "2025-11-23T23:51:44+00:00",
+            "published-time": "2025-11-24T13:05:56+00:00"
         },
         {
             "name": "chillerlan/php-settings-container",
@@ -600,7 +606,8 @@
                     "type": "ko_fi"
                 }
             ],
-            "time": "2026-03-20T21:10:52+00:00"
+            "time": "2026-03-20T21:10:52+00:00",
+            "published-time": "2026-03-20T21:26:09+00:00"
         },
         {
             "name": "composer/class-map-generator",
@@ -669,7 +676,8 @@
                     "type": "github"
                 }
             ],
-            "time": "2026-11-03T10:10:19+00:00"
+            "time": "2026-11-03T10:10:19+00:00",
+            "published-time": "2026-11-03T10:12:49+00:00"
         },
         {
             "name": "composer/pcre",
@@ -745,7 +753,8 @@
                     "type": "github"
                 }
             ],
-            "time": "2026-06-07T11:47:49+00:00"
+            "time": "2026-06-07T11:47:49+00:00",
+            "published-time": "2026-06-11T12:12:37+00:00"
         },
         {
             "name": "danharrin/date-format-converter",
@@ -796,7 +805,8 @@
                     "type": "github"
                 }
             ],
-            "time": "2024-06-13T09:38:44+00:00"
+            "time": "2024-06-13T09:38:44+00:00",
+            "published-time": "2024-06-13T09:39:48+00:00"
         },
         {
             "name": "danharrin/livewire-rate-limiting",
@@ -850,7 +860,8 @@
                     "type": "github"
                 }
             ],
-            "time": "2026-09-18T07:38:01+00:00"
+            "time": "2026-09-18T07:38:01+00:00",
+            "published-time": "2026-09-18T08:03:27+00:00"
         },
         {
             "name": "dflydev/dot-access-data",
@@ -925,7 +936,8 @@
                 "issues": "https://github.com/dflydev/dflydev-dot-access-data/issues",
                 "source": "https://github.com/dflydev/dflydev-dot-access-data/tree/v3.0.3"
             },
-            "time": "2024-07-08T12:26:09+00:00"
+            "time": "2024-07-08T12:26:09+00:00",
+            "published-time": "2024-07-08T12:27:13+00:00"
         },
         {
             "name": "doctrine/deprecations",
@@ -973,7 +985,8 @@
                 "issues": "https://github.com/doctrine/deprecations/issues",
                 "source": "https://github.com/doctrine/deprecations/tree/1.2.0"
             },
-            "time": "2026-11-11T10:04:49+00:00"
+            "time": "2026-11-11T10:04:49+00:00",
+            "published-time": "2026-11-11T10:12:24+00:00"
         },
         {
             "name": "doctrine/inflector",
@@ -1063,7 +1076,8 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2026-10-26T08:14:14+00:00"
+            "time": "2026-10-26T08:14:14+00:00",
+            "published-time": "2026-10-26T20:06:59+00:00"
         },
         {
             "name": "doctrine/lexer",
@@ -1138,7 +1152,8 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2026-10-01T06:59:29+00:00"
+            "time": "2026-10-01T06:59:29+00:00",
+            "published-time": "2026-10-01T07:01:28+00:00"
         },
         {
             "name": "dragonmantank/cron-expression",
@@ -1202,7 +1217,8 @@
                     "type": "github"
                 }
             ],
-            "time": "2026-10-19T17:53:57+00:00"
+            "time": "2026-10-19T17:53:57+00:00",
+            "published-time": "2026-10-19T17:54:31+00:00"
         },
         {
             "name": "dutchcodingcompany/filament-developer-logins",
@@ -1336,7 +1352,8 @@
                     "type": "github"
                 }
             ],
-            "time": "2025-03-06T22:45:56+00:00"
+            "time": "2025-03-06T22:45:56+00:00",
+            "published-time": "2025-03-20T21:39:03+00:00"
         },
         {
             "name": "filament/actions",
@@ -1385,7 +1402,8 @@
                 "issues": "https://github.com/filamentphp/filament/issues",
                 "source": "https://github.com/filamentphp/filament"
             },
-            "time": "2026-09-26T19:38:45+00:00"
+            "time": "2026-09-26T19:38:45+00:00",
+            "published-time": "2026-09-26T19:38:53+00:00"
         },
         {
             "name": "filament/filament",
@@ -1443,7 +1461,8 @@
                 "issues": "https://github.com/filamentphp/filament/issues",
                 "source": "https://github.com/filamentphp/filament"
             },
-            "time": "2026-09-26T19:39:41+00:00"
+            "time": "2026-09-26T19:39:41+00:00",
+            "published-time": "2026-09-26T19:39:51+00:00"
         },
         {
             "name": "filament/forms",
@@ -1496,7 +1515,8 @@
                 "issues": "https://github.com/filamentphp/filament/issues",
                 "source": "https://github.com/filamentphp/filament"
             },
-            "time": "2026-09-26T19:39:08+00:00"
+            "time": "2026-09-26T19:39:08+00:00",
+            "published-time": "2026-09-26T19:39:19+00:00"
         },
         {
             "name": "filament/infolists",
@@ -1541,7 +1561,8 @@
                 "issues": "https://github.com/filamentphp/filament/issues",
                 "source": "https://github.com/filamentphp/filament"
             },
-            "time": "2026-09-20T18:45:56+00:00"
+            "time": "2026-09-20T18:45:56+00:00",
+            "published-time": "2026-09-26T19:38:51+00:00"
         },
         {
             "name": "filament/notifications",
@@ -1588,7 +1609,8 @@
                 "issues": "https://github.com/filamentphp/filament/issues",
                 "source": "https://github.com/filamentphp/filament"
             },
-            "time": "2026-09-20T18:48:58+00:00"
+            "time": "2026-09-20T18:48:58+00:00",
+            "published-time": "2026-09-26T19:40:11+00:00"
         },
         {
             "name": "filament/query-builder",
@@ -1634,7 +1656,8 @@
                 "issues": "https://github.com/filamentphp/filament/issues",
                 "source": "https://github.com/filamentphp/filament"
             },
-            "time": "2026-09-20T18:53:32+00:00"
+            "time": "2026-09-20T18:53:32+00:00",
+            "published-time": "2026-09-26T19:38:54+00:00"
         },
         {
             "name": "filament/schemas",
@@ -1679,7 +1702,8 @@
                 "issues": "https://github.com/filamentphp/filament/issues",
                 "source": "https://github.com/filamentphp/filament"
             },
-            "time": "2026-09-26T19:39:19+00:00"
+            "time": "2026-09-26T19:39:19+00:00",
+            "published-time": "2026-09-26T19:39:24+00:00"
         },
         {
             "name": "filament/spatie-laravel-settings-plugin",
@@ -1783,7 +1807,8 @@
                 "issues": "https://github.com/filamentphp/filament/issues",
                 "source": "https://github.com/filamentphp/filament"
             },
-            "time": "2026-09-26T19:38:44+00:00"
+            "time": "2026-09-26T19:38:44+00:00",
+            "published-time": "2026-09-26T19:38:53+00:00"
         },
         {
             "name": "filament/tables",
@@ -1829,7 +1854,8 @@
                 "issues": "https://github.com/filamentphp/filament/issues",
                 "source": "https://github.com/filamentphp/filament"
             },
-            "time": "2026-09-26T19:39:27+00:00"
+            "time": "2026-09-26T19:39:27+00:00",
+            "published-time": "2026-09-26T19:39:37+00:00"
         },
         {
             "name": "filament/widgets",
@@ -1873,7 +1899,8 @@
                 "issues": "https://github.com/filamentphp/filament/issues",
                 "source": "https://github.com/filamentphp/filament"
             },
-            "time": "2026-09-20T18:53:38+00:00"
+            "time": "2026-09-20T18:53:38+00:00",
+            "published-time": "2026-09-26T19:39:45+00:00"
         },
         {
             "name": "fruitcake/php-cors",
@@ -1944,7 +1971,8 @@
                     "type": "github"
                 }
             ],
-            "time": "2025-12-03T09:33:47+00:00"
+            "time": "2025-12-03T09:33:47+00:00",
+            "published-time": "2025-12-03T09:37:01+00:00"
         },
         {
             "name": "graham-campbell/result-type",
@@ -2006,20 +2034,21 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2026-08-24T09:06:52+00:00"
+            "time": "2026-08-24T09:06:52+00:00",
+            "published-time": "2026-08-24T09:07:57+00:00"
         },
         {
             "name": "guzzlehttp/guzzle",
-            "version": "8.5.0",
+            "version": "8.5.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/guzzle/guzzle.git",
-                "reference": "f8aca40edffeae0ec508b92f4594766083c6e203"
+                "reference": "8e893188e1ac92b457eca35ddf2b574024b66280"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/guzzle/guzzle/zipball/f8aca40edffeae0ec508b92f4594766083c6e203",
-                "reference": "f8aca40edffeae0ec508b92f4594766083c6e203",
+                "url": "https://api.github.com/repos/guzzle/guzzle/zipball/8e893188e1ac92b457eca35ddf2b574024b66280",
+                "reference": "8e893188e1ac92b457eca35ddf2b574024b66280",
                 "shasum": ""
             },
             "require": {
@@ -2117,7 +2146,7 @@
             ],
             "support": {
                 "issues": "https://github.com/guzzle/guzzle/issues",
-                "source": "https://github.com/guzzle/guzzle/tree/8.5.0"
+                "source": "https://github.com/guzzle/guzzle/tree/8.5.2"
             },
             "funding": [
                 {
@@ -2133,7 +2162,8 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2026-11-13T03:12:32+00:00"
+            "time": "2026-11-17T16:24:00+00:00",
+            "published-time": "2026-11-17T16:24:22+00:00"
         },
         {
             "name": "guzzlehttp/promises",
@@ -2217,7 +2247,8 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2026-10-18T12:48:16+00:00"
+            "time": "2026-10-18T12:48:16+00:00",
+            "published-time": "2026-10-18T12:48:47+00:00"
         },
         {
             "name": "guzzlehttp/psr7",
@@ -2337,7 +2368,8 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2026-11-13T03:03:24+00:00"
+            "time": "2026-11-13T03:03:24+00:00",
+            "published-time": "2026-11-13T03:06:05+00:00"
         },
         {
             "name": "guzzlehttp/uri-template",
@@ -2423,7 +2455,8 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2026-08-24T17:13:02+00:00"
+            "time": "2026-08-24T17:13:02+00:00",
+            "published-time": "2026-08-24T17:13:22+00:00"
         },
         {
             "name": "jaybizzle/crawler-detect",
@@ -2629,6 +2662,931 @@
             "time": "2026-09-26T20:37:20+00:00"
         },
         {
+            "name": "jeffersongoncalves/filament-lgpd",
+            "version": "2.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/jeffersongoncalves/filament-lgpd.git",
+                "reference": "5265195fc5b4eee832c9a6dfee1f92a5127d29bb"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/jeffersongoncalves/filament-lgpd/zipball/5265195fc5b4eee832c9a6dfee1f92a5127d29bb",
+                "reference": "5265195fc5b4eee832c9a6dfee1f92a5127d29bb",
+                "shasum": ""
+            },
+            "require": {
+                "filament/filament": "^4.8",
+                "jeffersongoncalves/filament-plugin-core": "^2.0",
+                "jeffersongoncalves/laravel-lgpd": "^1.1",
+                "php": "^8.2",
+                "spatie/laravel-package-tools": "^1.16"
+            },
+            "require-dev": {
+                "larastan/larastan": "^3.0",
+                "laravel/pint": "^1.0",
+                "orchestra/testbench": "^10.0|^11.0",
+                "pestphp/pest": "^3.0|^4.0",
+                "pestphp/pest-plugin-laravel": "^3.0|^4.0"
+            },
+            "type": "library",
+            "extra": {
+                "laravel": {
+                    "providers": [
+                        "JeffersonGoncalves\\Filament\\Lgpd\\LgpdServiceProvider"
+                    ]
+                }
+            },
+            "autoload": {
+                "psr-4": {
+                    "JeffersonGoncalves\\Filament\\Lgpd\\": "src"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Jefferson Gonçalves",
+                    "email": "gerson.simao.92@gmail.com",
+                    "role": "Developer"
+                }
+            ],
+            "description": "Filament plugin for laravel-lgpd: a personal data inventory page (LGPD) listing every declared column with its category, purpose, legal basis, retention and anonymization.",
+            "homepage": "https://github.com/jeffersongoncalves/filament-lgpd",
+            "keywords": [
+                "anpd",
+                "data-inventory",
+                "filament",
+                "filament-plugin",
+                "gdpr",
+                "jeffersongoncalves",
+                "laravel",
+                "lgpd",
+                "personal-data",
+                "privacy",
+                "ropa"
+            ],
+            "support": {
+                "issues": "https://github.com/jeffersongoncalves/filament-lgpd/issues",
+                "source": "https://github.com/jeffersongoncalves/filament-lgpd/tree/2.0.0"
+            },
+            "funding": [
+                {
+                    "url": "https://buymeacoffee.com/jeffersongoncalves",
+                    "type": "custom"
+                },
+                {
+                    "url": "https://github.com/jeffersongoncalves",
+                    "type": "github"
+                }
+            ],
+            "time": "2026-11-16T22:23:01+00:00",
+            "published-time": "2026-11-16T22:26:43+00:00"
+        },
+        {
+            "name": "jeffersongoncalves/filament-lgpd-audit-log",
+            "version": "2.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/jeffersongoncalves/filament-lgpd-audit-log.git",
+                "reference": "c8e7b94a45ccd908ff9931d21522ad517334ad3a"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/jeffersongoncalves/filament-lgpd-audit-log/zipball/c8e7b94a45ccd908ff9931d21522ad517334ad3a",
+                "reference": "c8e7b94a45ccd908ff9931d21522ad517334ad3a",
+                "shasum": ""
+            },
+            "require": {
+                "filament/filament": "^4.8",
+                "jeffersongoncalves/filament-plugin-core": "^2.0",
+                "jeffersongoncalves/laravel-lgpd-audit-log": "^1.0",
+                "php": "^8.2",
+                "spatie/laravel-package-tools": "^1.16"
+            },
+            "require-dev": {
+                "jeffersongoncalves/pest-plugin-database-migrations": "^1.0",
+                "larastan/larastan": "^3.0",
+                "laravel/pint": "^1.0",
+                "orchestra/testbench": "^10.0|^11.0",
+                "pestphp/pest": "^3.0|^4.0",
+                "pestphp/pest-plugin-laravel": "^3.0|^4.0"
+            },
+            "type": "library",
+            "extra": {
+                "laravel": {
+                    "providers": [
+                        "JeffersonGoncalves\\Filament\\LgpdAuditLog\\LgpdAuditLogServiceProvider"
+                    ]
+                }
+            },
+            "autoload": {
+                "psr-4": {
+                    "JeffersonGoncalves\\Filament\\LgpdAuditLog\\": "src"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Jefferson Gonçalves",
+                    "email": "gerson.simao.92@gmail.com",
+                    "role": "Developer"
+                }
+            ],
+            "description": "Filament plugin for laravel-lgpd-audit-log: browse who viewed, changed, exported or anonymized personal data, and verify the hash chain of the LGPD audit log from your panel.",
+            "homepage": "https://github.com/jeffersongoncalves/filament-lgpd-audit-log",
+            "keywords": [
+                "anpd",
+                "audit-log",
+                "audit-trail",
+                "filament",
+                "filament-plugin",
+                "gdpr",
+                "jeffersongoncalves",
+                "laravel",
+                "lgpd",
+                "privacy"
+            ],
+            "support": {
+                "issues": "https://github.com/jeffersongoncalves/filament-lgpd-audit-log/issues",
+                "source": "https://github.com/jeffersongoncalves/filament-lgpd-audit-log/tree/2.0.0"
+            },
+            "funding": [
+                {
+                    "url": "https://buymeacoffee.com/jeffersongoncalves",
+                    "type": "custom"
+                },
+                {
+                    "url": "https://github.com/jeffersongoncalves",
+                    "type": "github"
+                }
+            ],
+            "time": "2026-11-16T23:46:50+00:00",
+            "published-time": "2026-11-16T23:50:30+00:00"
+        },
+        {
+            "name": "jeffersongoncalves/filament-lgpd-consent",
+            "version": "2.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/jeffersongoncalves/filament-lgpd-consent.git",
+                "reference": "7de83be7c3de1e51c781443d4a777cd5fb902171"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/jeffersongoncalves/filament-lgpd-consent/zipball/7de83be7c3de1e51c781443d4a777cd5fb902171",
+                "reference": "7de83be7c3de1e51c781443d4a777cd5fb902171",
+                "shasum": ""
+            },
+            "require": {
+                "filament/filament": "^4.8",
+                "jeffersongoncalves/filament-plugin-core": "^2.0",
+                "jeffersongoncalves/laravel-lgpd-consent": "^1.0",
+                "php": "^8.2",
+                "spatie/laravel-package-tools": "^1.16"
+            },
+            "require-dev": {
+                "jeffersongoncalves/pest-plugin-database-migrations": "^1.0",
+                "larastan/larastan": "^3.0",
+                "laravel/pint": "^1.0",
+                "orchestra/testbench": "^10.0|^11.0",
+                "pestphp/pest": "^3.0|^4.0",
+                "pestphp/pest-plugin-laravel": "^3.0|^4.0"
+            },
+            "type": "library",
+            "extra": {
+                "laravel": {
+                    "providers": [
+                        "JeffersonGoncalves\\Filament\\LgpdConsent\\LgpdConsentServiceProvider"
+                    ]
+                }
+            },
+            "autoload": {
+                "psr-4": {
+                    "JeffersonGoncalves\\Filament\\LgpdConsent\\": "src"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Jefferson Gonçalves",
+                    "email": "gerson.simao.92@gmail.com",
+                    "role": "Developer"
+                }
+            ],
+            "description": "Filament plugin for laravel-lgpd-consent: browse the append-only LGPD consent ledger (art. 8) by purpose, terms version and decision, with the proof of each consent.",
+            "homepage": "https://github.com/jeffersongoncalves/filament-lgpd-consent",
+            "keywords": [
+                "anpd",
+                "consent",
+                "consent-management",
+                "filament",
+                "filament-plugin",
+                "gdpr",
+                "jeffersongoncalves",
+                "laravel",
+                "lgpd",
+                "privacy"
+            ],
+            "support": {
+                "issues": "https://github.com/jeffersongoncalves/filament-lgpd-consent/issues",
+                "source": "https://github.com/jeffersongoncalves/filament-lgpd-consent/tree/2.0.0"
+            },
+            "funding": [
+                {
+                    "url": "https://buymeacoffee.com/jeffersongoncalves",
+                    "type": "custom"
+                },
+                {
+                    "url": "https://github.com/jeffersongoncalves",
+                    "type": "github"
+                }
+            ],
+            "time": "2026-11-16T22:38:16+00:00",
+            "published-time": "2026-11-16T22:41:14+00:00"
+        },
+        {
+            "name": "jeffersongoncalves/filament-lgpd-dsar",
+            "version": "2.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/jeffersongoncalves/filament-lgpd-dsar.git",
+                "reference": "be63778da26d943f9d3191552f2a8e2b6a0a7f7f"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/jeffersongoncalves/filament-lgpd-dsar/zipball/be63778da26d943f9d3191552f2a8e2b6a0a7f7f",
+                "reference": "be63778da26d943f9d3191552f2a8e2b6a0a7f7f",
+                "shasum": ""
+            },
+            "require": {
+                "filament/filament": "^4.8",
+                "jeffersongoncalves/filament-plugin-core": "^2.0",
+                "jeffersongoncalves/laravel-lgpd-dsar": "^1.0",
+                "php": "^8.2",
+                "spatie/laravel-package-tools": "^1.16"
+            },
+            "require-dev": {
+                "jeffersongoncalves/pest-plugin-database-migrations": "^1.0",
+                "larastan/larastan": "^3.0",
+                "laravel/pint": "^1.0",
+                "orchestra/testbench": "^10.0|^11.0",
+                "pestphp/pest": "^3.0|^4.0",
+                "pestphp/pest-plugin-laravel": "^3.0|^4.0"
+            },
+            "type": "library",
+            "extra": {
+                "laravel": {
+                    "providers": [
+                        "JeffersonGoncalves\\Filament\\LgpdDsar\\LgpdDsarServiceProvider"
+                    ]
+                }
+            },
+            "autoload": {
+                "psr-4": {
+                    "JeffersonGoncalves\\Filament\\LgpdDsar\\": "src"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Jefferson Gonçalves",
+                    "email": "gerson.simao.92@gmail.com",
+                    "role": "Developer"
+                }
+            ],
+            "description": "Filament plugin to handle LGPD data subject requests (art. 18): verify, export, erase, reject and track the 15-day deadline from your panel.",
+            "homepage": "https://github.com/jeffersongoncalves/filament-lgpd-dsar",
+            "keywords": [
+                "anpd",
+                "data-subject-request",
+                "dsar",
+                "filament",
+                "filament-plugin",
+                "gdpr",
+                "jeffersongoncalves",
+                "laravel",
+                "lgpd",
+                "privacy"
+            ],
+            "support": {
+                "issues": "https://github.com/jeffersongoncalves/filament-lgpd-dsar/issues",
+                "source": "https://github.com/jeffersongoncalves/filament-lgpd-dsar/tree/2.0.0"
+            },
+            "funding": [
+                {
+                    "url": "https://buymeacoffee.com/jeffersongoncalves",
+                    "type": "custom"
+                },
+                {
+                    "url": "https://github.com/jeffersongoncalves",
+                    "type": "github"
+                }
+            ],
+            "time": "2026-11-16T21:45:55+00:00",
+            "published-time": "2026-11-16T21:49:15+00:00"
+        },
+        {
+            "name": "jeffersongoncalves/filament-lgpd-incidents",
+            "version": "2.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/jeffersongoncalves/filament-lgpd-incidents.git",
+                "reference": "56c37db62dba6362286c9257c28fd86b29f0f165"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/jeffersongoncalves/filament-lgpd-incidents/zipball/56c37db62dba6362286c9257c28fd86b29f0f165",
+                "reference": "56c37db62dba6362286c9257c28fd86b29f0f165",
+                "shasum": ""
+            },
+            "require": {
+                "filament/filament": "^4.8",
+                "jeffersongoncalves/filament-plugin-core": "^2.0",
+                "jeffersongoncalves/laravel-lgpd-incidents": "^1.0",
+                "php": "^8.2",
+                "spatie/laravel-package-tools": "^1.16"
+            },
+            "require-dev": {
+                "jeffersongoncalves/pest-plugin-database-migrations": "^1.0",
+                "larastan/larastan": "^3.0",
+                "laravel/pint": "^1.0",
+                "orchestra/testbench": "^10.0|^11.0",
+                "pestphp/pest": "^3.0|^4.0",
+                "pestphp/pest-plugin-laravel": "^3.0|^4.0"
+            },
+            "type": "library",
+            "extra": {
+                "laravel": {
+                    "providers": [
+                        "JeffersonGoncalves\\Filament\\LgpdIncidents\\LgpdIncidentsServiceProvider"
+                    ]
+                }
+            },
+            "autoload": {
+                "psr-4": {
+                    "JeffersonGoncalves\\Filament\\LgpdIncidents\\": "src"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Jefferson Gonçalves",
+                    "email": "gerson.simao.92@gmail.com",
+                    "role": "Developer"
+                }
+            ],
+            "description": "Filament plugin for laravel-lgpd-incidents: register LGPD security incidents, assess the risk and track the 3-business-day ANPD and data subject notification deadline from your panel.",
+            "homepage": "https://github.com/jeffersongoncalves/filament-lgpd-incidents",
+            "keywords": [
+                "anpd",
+                "data-breach",
+                "filament",
+                "filament-plugin",
+                "incident",
+                "jeffersongoncalves",
+                "laravel",
+                "lgpd",
+                "privacy",
+                "security-incident"
+            ],
+            "support": {
+                "issues": "https://github.com/jeffersongoncalves/filament-lgpd-incidents/issues",
+                "source": "https://github.com/jeffersongoncalves/filament-lgpd-incidents/tree/2.0.0"
+            },
+            "funding": [
+                {
+                    "url": "https://buymeacoffee.com/jeffersongoncalves",
+                    "type": "custom"
+                },
+                {
+                    "url": "https://github.com/jeffersongoncalves",
+                    "type": "github"
+                }
+            ],
+            "time": "2026-11-16T23:30:07+00:00",
+            "published-time": "2026-11-16T23:33:59+00:00"
+        },
+        {
+            "name": "jeffersongoncalves/filament-lgpd-minors",
+            "version": "2.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/jeffersongoncalves/filament-lgpd-minors.git",
+                "reference": "5f8adc31d3d773feedfc4479859bd79f1a78aa90"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/jeffersongoncalves/filament-lgpd-minors/zipball/5f8adc31d3d773feedfc4479859bd79f1a78aa90",
+                "reference": "5f8adc31d3d773feedfc4479859bd79f1a78aa90",
+                "shasum": ""
+            },
+            "require": {
+                "filament/filament": "^4.8",
+                "jeffersongoncalves/filament-plugin-core": "^2.0",
+                "jeffersongoncalves/laravel-lgpd-minors": "^1.0",
+                "php": "^8.2",
+                "spatie/laravel-package-tools": "^1.16"
+            },
+            "require-dev": {
+                "jeffersongoncalves/pest-plugin-database-migrations": "^1.0",
+                "larastan/larastan": "^3.0",
+                "laravel/pint": "^1.0",
+                "orchestra/testbench": "^10.0|^11.0",
+                "pestphp/pest": "^3.0|^4.0",
+                "pestphp/pest-plugin-laravel": "^3.0|^4.0"
+            },
+            "type": "library",
+            "extra": {
+                "laravel": {
+                    "providers": [
+                        "JeffersonGoncalves\\Filament\\LgpdMinors\\LgpdMinorsServiceProvider"
+                    ]
+                }
+            },
+            "autoload": {
+                "psr-4": {
+                    "JeffersonGoncalves\\Filament\\LgpdMinors\\": "src"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Jefferson Gonçalves",
+                    "email": "gerson.simao.92@gmail.com",
+                    "role": "Developer"
+                }
+            ],
+            "description": "Filament plugin for laravel-lgpd-minors: ECA Digital in the panel, with age assurance results, guardian links for accounts up to 16 and suspensions with appeal.",
+            "homepage": "https://github.com/jeffersongoncalves/filament-lgpd-minors",
+            "keywords": [
+                "age-verification",
+                "anpd",
+                "eca-digital",
+                "filament",
+                "filament-plugin",
+                "jeffersongoncalves",
+                "laravel",
+                "lgpd",
+                "minors",
+                "parental-control"
+            ],
+            "support": {
+                "issues": "https://github.com/jeffersongoncalves/filament-lgpd-minors/issues",
+                "source": "https://github.com/jeffersongoncalves/filament-lgpd-minors/tree/2.0.0"
+            },
+            "funding": [
+                {
+                    "url": "https://buymeacoffee.com/jeffersongoncalves",
+                    "type": "custom"
+                },
+                {
+                    "url": "https://github.com/jeffersongoncalves",
+                    "type": "github"
+                }
+            ],
+            "time": "2026-11-17T10:10:55+00:00",
+            "published-time": "2026-11-17T10:12:14+00:00"
+        },
+        {
+            "name": "jeffersongoncalves/filament-lgpd-records",
+            "version": "2.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/jeffersongoncalves/filament-lgpd-records.git",
+                "reference": "cff91804d82ff8c9eb17f7fefd828fe0e43c80b0"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/jeffersongoncalves/filament-lgpd-records/zipball/cff91804d82ff8c9eb17f7fefd828fe0e43c80b0",
+                "reference": "cff91804d82ff8c9eb17f7fefd828fe0e43c80b0",
+                "shasum": ""
+            },
+            "require": {
+                "filament/filament": "^4.8",
+                "jeffersongoncalves/filament-plugin-core": "^2.0",
+                "jeffersongoncalves/laravel-lgpd-records": "^1.0",
+                "php": "^8.2",
+                "spatie/laravel-package-tools": "^1.16"
+            },
+            "require-dev": {
+                "jeffersongoncalves/pest-plugin-database-migrations": "^1.0",
+                "larastan/larastan": "^3.0",
+                "laravel/pint": "^1.0",
+                "orchestra/testbench": "^10.0|^11.0",
+                "pestphp/pest": "^3.0|^4.0",
+                "pestphp/pest-plugin-laravel": "^3.0|^4.0"
+            },
+            "type": "library",
+            "extra": {
+                "laravel": {
+                    "providers": [
+                        "JeffersonGoncalves\\Filament\\LgpdRecords\\LgpdRecordsServiceProvider"
+                    ]
+                }
+            },
+            "autoload": {
+                "psr-4": {
+                    "JeffersonGoncalves\\Filament\\LgpdRecords\\": "src"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Jefferson Gonçalves",
+                    "email": "gerson.simao.92@gmail.com",
+                    "role": "Developer"
+                }
+            ],
+            "description": "Filament plugin for laravel-lgpd-records: manage your LGPD records of processing activities (ROPA, art. 37) from the panel and export them joined with the personal data inventory.",
+            "homepage": "https://github.com/jeffersongoncalves/filament-lgpd-records",
+            "keywords": [
+                "anpd",
+                "dpo",
+                "filament",
+                "filament-plugin",
+                "jeffersongoncalves",
+                "laravel",
+                "lgpd",
+                "privacy",
+                "records-of-processing",
+                "ropa"
+            ],
+            "support": {
+                "issues": "https://github.com/jeffersongoncalves/filament-lgpd-records/issues",
+                "source": "https://github.com/jeffersongoncalves/filament-lgpd-records/tree/2.0.0"
+            },
+            "funding": [
+                {
+                    "url": "https://buymeacoffee.com/jeffersongoncalves",
+                    "type": "custom"
+                },
+                {
+                    "url": "https://github.com/jeffersongoncalves",
+                    "type": "github"
+                }
+            ],
+            "time": "2026-11-16T23:39:19+00:00",
+            "published-time": "2026-11-16T23:41:47+00:00"
+        },
+        {
+            "name": "jeffersongoncalves/filament-lgpd-retention",
+            "version": "2.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/jeffersongoncalves/filament-lgpd-retention.git",
+                "reference": "9432206b07cc316c9a96174ceb3dc7e67ee5c6c1"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/jeffersongoncalves/filament-lgpd-retention/zipball/9432206b07cc316c9a96174ceb3dc7e67ee5c6c1",
+                "reference": "9432206b07cc316c9a96174ceb3dc7e67ee5c6c1",
+                "shasum": ""
+            },
+            "require": {
+                "filament/filament": "^4.8",
+                "jeffersongoncalves/filament-plugin-core": "^2.0",
+                "jeffersongoncalves/laravel-lgpd-retention": "^1.1",
+                "php": "^8.2",
+                "spatie/laravel-package-tools": "^1.16"
+            },
+            "require-dev": {
+                "jeffersongoncalves/pest-plugin-database-migrations": "^1.0",
+                "larastan/larastan": "^3.0",
+                "laravel/pint": "^1.0",
+                "orchestra/testbench": "^10.0|^11.0",
+                "pestphp/pest": "^3.0|^4.0",
+                "pestphp/pest-plugin-laravel": "^3.0|^4.0"
+            },
+            "type": "library",
+            "extra": {
+                "laravel": {
+                    "providers": [
+                        "JeffersonGoncalves\\Filament\\LgpdRetention\\LgpdRetentionServiceProvider"
+                    ]
+                }
+            },
+            "autoload": {
+                "psr-4": {
+                    "JeffersonGoncalves\\Filament\\LgpdRetention\\": "src"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Jefferson Gonçalves",
+                    "email": "gerson.simao.92@gmail.com",
+                    "role": "Developer"
+                }
+            ],
+            "description": "Filament plugin for laravel-lgpd-retention: preview and run LGPD data retention, re-apply erasure after a backup restore, and browse the tombstones of anonymized columns.",
+            "homepage": "https://github.com/jeffersongoncalves/filament-lgpd-retention",
+            "keywords": [
+                "anonymization",
+                "anpd",
+                "data-retention",
+                "filament",
+                "filament-plugin",
+                "gdpr",
+                "jeffersongoncalves",
+                "laravel",
+                "lgpd",
+                "privacy",
+                "retention"
+            ],
+            "support": {
+                "issues": "https://github.com/jeffersongoncalves/filament-lgpd-retention/issues",
+                "source": "https://github.com/jeffersongoncalves/filament-lgpd-retention/tree/2.0.0"
+            },
+            "funding": [
+                {
+                    "url": "https://buymeacoffee.com/jeffersongoncalves",
+                    "type": "custom"
+                },
+                {
+                    "url": "https://github.com/jeffersongoncalves",
+                    "type": "github"
+                }
+            ],
+            "time": "2026-11-16T22:49:33+00:00",
+            "published-time": "2026-11-16T22:52:39+00:00"
+        },
+        {
+            "name": "jeffersongoncalves/filament-lgpd-ripd",
+            "version": "2.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/jeffersongoncalves/filament-lgpd-ripd.git",
+                "reference": "33a672fcb0dbfb143b86ae50994ec68860781784"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/jeffersongoncalves/filament-lgpd-ripd/zipball/33a672fcb0dbfb143b86ae50994ec68860781784",
+                "reference": "33a672fcb0dbfb143b86ae50994ec68860781784",
+                "shasum": ""
+            },
+            "require": {
+                "filament/filament": "^4.8",
+                "jeffersongoncalves/filament-plugin-core": "^2.0",
+                "jeffersongoncalves/laravel-lgpd-ripd": "^1.0",
+                "php": "^8.2",
+                "spatie/laravel-package-tools": "^1.16"
+            },
+            "require-dev": {
+                "jeffersongoncalves/pest-plugin-database-migrations": "^1.0",
+                "larastan/larastan": "^3.0",
+                "laravel/pint": "^1.0",
+                "orchestra/testbench": "^10.0|^11.0",
+                "pestphp/pest": "^3.0|^4.0",
+                "pestphp/pest-plugin-laravel": "^3.0|^4.0"
+            },
+            "type": "library",
+            "extra": {
+                "laravel": {
+                    "providers": [
+                        "JeffersonGoncalves\\Filament\\LgpdRipd\\LgpdRipdServiceProvider"
+                    ]
+                }
+            },
+            "autoload": {
+                "psr-4": {
+                    "JeffersonGoncalves\\Filament\\LgpdRipd\\": "src"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Jefferson Gonçalves",
+                    "email": "gerson.simao.92@gmail.com",
+                    "role": "Developer"
+                }
+            ],
+            "description": "Filament plugin for laravel-lgpd-ripd: write LGPD data protection impact assessments (RIPD) in the panel, score risks before and after measures, approve them and see which processing activities still need one.",
+            "homepage": "https://github.com/jeffersongoncalves/filament-lgpd-ripd",
+            "keywords": [
+                "anpd",
+                "dpia",
+                "filament",
+                "filament-plugin",
+                "impact-assessment",
+                "jeffersongoncalves",
+                "laravel",
+                "lgpd",
+                "privacy",
+                "ripd"
+            ],
+            "support": {
+                "issues": "https://github.com/jeffersongoncalves/filament-lgpd-ripd/issues",
+                "source": "https://github.com/jeffersongoncalves/filament-lgpd-ripd/tree/2.0.0"
+            },
+            "funding": [
+                {
+                    "url": "https://buymeacoffee.com/jeffersongoncalves",
+                    "type": "custom"
+                },
+                {
+                    "url": "https://github.com/jeffersongoncalves",
+                    "type": "github"
+                }
+            ],
+            "time": "2026-11-17T03:51:41+00:00",
+            "published-time": "2026-11-17T03:52:51+00:00"
+        },
+        {
+            "name": "jeffersongoncalves/filament-lgpd-takedown",
+            "version": "2.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/jeffersongoncalves/filament-lgpd-takedown.git",
+                "reference": "1418192935d823d57354596c773513012ecb2437"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/jeffersongoncalves/filament-lgpd-takedown/zipball/1418192935d823d57354596c773513012ecb2437",
+                "reference": "1418192935d823d57354596c773513012ecb2437",
+                "shasum": ""
+            },
+            "require": {
+                "filament/filament": "^4.8",
+                "jeffersongoncalves/filament-plugin-core": "^2.0",
+                "jeffersongoncalves/laravel-lgpd-takedown": "^1.0",
+                "php": "^8.2",
+                "spatie/laravel-package-tools": "^1.16"
+            },
+            "require-dev": {
+                "jeffersongoncalves/pest-plugin-database-migrations": "^1.0",
+                "larastan/larastan": "^3.0",
+                "laravel/pint": "^1.0",
+                "orchestra/testbench": "^10.0|^11.0",
+                "pestphp/pest": "^3.0|^4.0",
+                "pestphp/pest-plugin-laravel": "^3.0|^4.0"
+            },
+            "type": "library",
+            "extra": {
+                "laravel": {
+                    "providers": [
+                        "JeffersonGoncalves\\Filament\\LgpdTakedown\\LgpdTakedownServiceProvider"
+                    ]
+                }
+            },
+            "autoload": {
+                "psr-4": {
+                    "JeffersonGoncalves\\Filament\\LgpdTakedown\\": "src"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Jefferson Gonçalves",
+                    "email": "gerson.simao.92@gmail.com",
+                    "role": "Developer"
+                }
+            ],
+            "description": "Filament plugin for laravel-lgpd-takedown: decide ECA Digital content notices in the panel, report grave cases to the authorities, handle author appeals and see abusive reporters.",
+            "homepage": "https://github.com/jeffersongoncalves/filament-lgpd-takedown",
+            "keywords": [
+                "anpd",
+                "child-safety",
+                "content-moderation",
+                "eca-digital",
+                "filament",
+                "filament-plugin",
+                "jeffersongoncalves",
+                "laravel",
+                "lgpd",
+                "takedown"
+            ],
+            "support": {
+                "issues": "https://github.com/jeffersongoncalves/filament-lgpd-takedown/issues",
+                "source": "https://github.com/jeffersongoncalves/filament-lgpd-takedown/tree/2.0.0"
+            },
+            "funding": [
+                {
+                    "url": "https://buymeacoffee.com/jeffersongoncalves",
+                    "type": "custom"
+                },
+                {
+                    "url": "https://github.com/jeffersongoncalves",
+                    "type": "github"
+                }
+            ],
+            "time": "2026-11-17T11:36:19+00:00",
+            "published-time": "2026-11-17T11:37:07+00:00"
+        },
+        {
+            "name": "jeffersongoncalves/filament-lgpd-vendors",
+            "version": "2.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/jeffersongoncalves/filament-lgpd-vendors.git",
+                "reference": "6ce4b61fb2bb3981e53477cceda649fe4e9f1544"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/jeffersongoncalves/filament-lgpd-vendors/zipball/6ce4b61fb2bb3981e53477cceda649fe4e9f1544",
+                "reference": "6ce4b61fb2bb3981e53477cceda649fe4e9f1544",
+                "shasum": ""
+            },
+            "require": {
+                "filament/filament": "^4.8",
+                "jeffersongoncalves/filament-plugin-core": "^2.0",
+                "jeffersongoncalves/laravel-lgpd-vendors": "^1.0",
+                "php": "^8.2",
+                "spatie/laravel-package-tools": "^1.16"
+            },
+            "require-dev": {
+                "jeffersongoncalves/pest-plugin-database-migrations": "^1.0",
+                "larastan/larastan": "^3.0",
+                "laravel/pint": "^1.0",
+                "orchestra/testbench": "^10.0|^11.0",
+                "pestphp/pest": "^3.0|^4.0",
+                "pestphp/pest-plugin-laravel": "^3.0|^4.0"
+            },
+            "type": "library",
+            "extra": {
+                "laravel": {
+                    "providers": [
+                        "JeffersonGoncalves\\Filament\\LgpdVendors\\LgpdVendorsServiceProvider"
+                    ]
+                }
+            },
+            "autoload": {
+                "psr-4": {
+                    "JeffersonGoncalves\\Filament\\LgpdVendors\\": "src"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Jefferson Gonçalves",
+                    "email": "gerson.simao.92@gmail.com",
+                    "role": "Developer"
+                }
+            ],
+            "description": "Filament plugin for laravel-lgpd-vendors: keep your LGPD vendor register in the panel, with DPA checklist, international transfers, reviews by risk tier and the issues each vendor still owes.",
+            "homepage": "https://github.com/jeffersongoncalves/filament-lgpd-vendors",
+            "keywords": [
+                "anpd",
+                "dpa",
+                "filament",
+                "filament-plugin",
+                "jeffersongoncalves",
+                "laravel",
+                "lgpd",
+                "privacy",
+                "processors",
+                "vendors"
+            ],
+            "support": {
+                "issues": "https://github.com/jeffersongoncalves/filament-lgpd-vendors/issues",
+                "source": "https://github.com/jeffersongoncalves/filament-lgpd-vendors/tree/2.0.0"
+            },
+            "funding": [
+                {
+                    "url": "https://buymeacoffee.com/jeffersongoncalves",
+                    "type": "custom"
+                },
+                {
+                    "url": "https://github.com/jeffersongoncalves",
+                    "type": "github"
+                }
+            ],
+            "time": "2026-11-17T03:51:40+00:00",
+            "published-time": "2026-11-17T03:52:27+00:00"
+        },
+        {
             "name": "jeffersongoncalves/filament-logo",
             "version": "2.1.0",
             "source": {
@@ -2763,7 +3721,8 @@
                     "type": "github"
                 }
             ],
-            "time": "2026-06-23T22:30:44+00:00"
+            "time": "2026-06-23T22:30:44+00:00",
+            "published-time": "2026-06-23T22:31:08+00:00"
         },
         {
             "name": "jeffersongoncalves/filament-pwa",
@@ -3160,6 +4119,88 @@
             "time": "2026-09-26T20:53:00+00:00"
         },
         {
+            "name": "jeffersongoncalves/laravel-brazil-holidays",
+            "version": "1.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/jeffersongoncalves/laravel-brazil-holidays.git",
+                "reference": "fcb7678c327fa48f1bfb37d5e07a24d5eebf495f"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/jeffersongoncalves/laravel-brazil-holidays/zipball/fcb7678c327fa48f1bfb37d5e07a24d5eebf495f",
+                "reference": "fcb7678c327fa48f1bfb37d5e07a24d5eebf495f",
+                "shasum": ""
+            },
+            "require": {
+                "laravel/framework": "^12.61.1|^13.12.0",
+                "php": "^8.2|^8.3|^8.4",
+                "spatie/laravel-package-tools": "^1.14.0"
+            },
+            "require-dev": {
+                "larastan/larastan": "^3.0",
+                "laravel/pint": "^1.24",
+                "orchestra/testbench": "^10.0|^11.0",
+                "pestphp/pest": "^3.7.4|^4.0",
+                "pestphp/pest-plugin-laravel": "^3.0|^4.0"
+            },
+            "type": "library",
+            "extra": {
+                "laravel": {
+                    "aliases": {
+                        "BrazilHolidays": "JeffersonGoncalves\\BrazilHolidays\\Facades\\BrazilHolidays"
+                    },
+                    "providers": [
+                        "JeffersonGoncalves\\BrazilHolidays\\BrazilHolidaysServiceProvider"
+                    ]
+                }
+            },
+            "autoload": {
+                "psr-4": {
+                    "JeffersonGoncalves\\BrazilHolidays\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Jefferson Gonçalves",
+                    "email": "gerson.simao.92@gmail.com",
+                    "role": "Developer"
+                }
+            ],
+            "description": "Brazilian national holidays for Laravel: holiday list per year, holiday and business day checks, and business day arithmetic.",
+            "homepage": "https://github.com/jeffersongoncalves/laravel-brazil-holidays",
+            "keywords": [
+                "brazil",
+                "business-days",
+                "dias-uteis",
+                "feriados",
+                "holidays",
+                "jeffersongoncalves",
+                "laravel",
+                "laravel-brazil-holidays"
+            ],
+            "support": {
+                "issues": "https://github.com/jeffersongoncalves/laravel-brazil-holidays/issues",
+                "source": "https://github.com/jeffersongoncalves/laravel-brazil-holidays/tree/1.0.0"
+            },
+            "funding": [
+                {
+                    "url": "https://buymeacoffee.com/jeffersongoncalves",
+                    "type": "custom"
+                },
+                {
+                    "url": "https://github.com/jeffersongoncalves",
+                    "type": "github"
+                }
+            ],
+            "time": "2026-10-11T18:48:15+00:00",
+            "published-time": "2026-10-11T18:48:41+00:00"
+        },
+        {
             "name": "jeffersongoncalves/laravel-favicon",
             "version": "1.0.0",
             "source": {
@@ -3228,6 +4269,972 @@
                 }
             ],
             "time": "2026-08-27T14:17:41+00:00"
+        },
+        {
+            "name": "jeffersongoncalves/laravel-lgpd",
+            "version": "1.2.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/jeffersongoncalves/laravel-lgpd.git",
+                "reference": "1cb7eafd628653bfdead2109ce68854244786f4b"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/jeffersongoncalves/laravel-lgpd/zipball/1cb7eafd628653bfdead2109ce68854244786f4b",
+                "reference": "1cb7eafd628653bfdead2109ce68854244786f4b",
+                "shasum": ""
+            },
+            "require": {
+                "illuminate/console": "^12.0|^13.0",
+                "illuminate/contracts": "^12.0|^13.0",
+                "illuminate/database": "^12.0|^13.0",
+                "illuminate/support": "^12.0|^13.0",
+                "php": "^8.2",
+                "spatie/laravel-package-tools": "^1.16"
+            },
+            "require-dev": {
+                "larastan/larastan": "^3.0",
+                "laravel/pint": "^1.24",
+                "orchestra/testbench": "^10.0|^11.0",
+                "pestphp/pest": "^3.0|^4.0",
+                "pestphp/pest-plugin-laravel": "^3.0|^4.0"
+            },
+            "type": "library",
+            "extra": {
+                "laravel": {
+                    "aliases": {
+                        "Lgpd": "JeffersonGoncalves\\Lgpd\\Facades\\Lgpd"
+                    },
+                    "providers": [
+                        "JeffersonGoncalves\\Lgpd\\LgpdServiceProvider"
+                    ]
+                }
+            },
+            "autoload": {
+                "psr-4": {
+                    "JeffersonGoncalves\\Lgpd\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Jefferson Gonçalves",
+                    "email": "gerson.simao.92@gmail.com",
+                    "role": "Developer"
+                }
+            ],
+            "description": "LGPD toolkit core for Laravel: declare personal data on Eloquent models, build the data inventory, export and anonymize data subjects.",
+            "homepage": "https://github.com/jeffersongoncalves/laravel-lgpd",
+            "keywords": [
+                "anpd",
+                "data-protection",
+                "gdpr",
+                "laravel",
+                "lgpd",
+                "personal-data",
+                "privacy"
+            ],
+            "support": {
+                "issues": "https://github.com/jeffersongoncalves/laravel-lgpd/issues",
+                "source": "https://github.com/jeffersongoncalves/laravel-lgpd/tree/1.2.0"
+            },
+            "funding": [
+                {
+                    "url": "https://buymeacoffee.com/jeffersongoncalves",
+                    "type": "custom"
+                },
+                {
+                    "url": "https://github.com/jeffersongoncalves",
+                    "type": "github"
+                }
+            ],
+            "time": "2026-11-17T01:40:08+00:00",
+            "published-time": "2026-11-17T01:40:12+00:00"
+        },
+        {
+            "name": "jeffersongoncalves/laravel-lgpd-audit-log",
+            "version": "1.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/jeffersongoncalves/laravel-lgpd-audit-log.git",
+                "reference": "401512acdecdaa52abb2353993d66ff7e2cca491"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/jeffersongoncalves/laravel-lgpd-audit-log/zipball/401512acdecdaa52abb2353993d66ff7e2cca491",
+                "reference": "401512acdecdaa52abb2353993d66ff7e2cca491",
+                "shasum": ""
+            },
+            "require": {
+                "illuminate/console": "^12.0|^13.0",
+                "illuminate/contracts": "^12.0|^13.0",
+                "illuminate/database": "^12.0|^13.0",
+                "illuminate/support": "^12.0|^13.0",
+                "jeffersongoncalves/laravel-lgpd": "^1.1",
+                "php": "^8.2",
+                "spatie/laravel-package-tools": "^1.16"
+            },
+            "require-dev": {
+                "jeffersongoncalves/pest-plugin-database-migrations": "^1.0",
+                "larastan/larastan": "^3.0",
+                "laravel/pint": "^1.24",
+                "orchestra/testbench": "^10.0|^11.0",
+                "pestphp/pest": "^3.0|^4.0",
+                "pestphp/pest-plugin-laravel": "^3.0|^4.0"
+            },
+            "type": "library",
+            "extra": {
+                "laravel": {
+                    "aliases": {
+                        "LgpdAuditLog": "JeffersonGoncalves\\LgpdAuditLog\\Facades\\LgpdAuditLog"
+                    },
+                    "providers": [
+                        "JeffersonGoncalves\\LgpdAuditLog\\LgpdAuditLogServiceProvider"
+                    ]
+                }
+            },
+            "autoload": {
+                "psr-4": {
+                    "JeffersonGoncalves\\LgpdAuditLog\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Jefferson Gonçalves",
+                    "email": "gerson.simao.92@gmail.com",
+                    "role": "Developer"
+                }
+            ],
+            "description": "LGPD audit trail for Laravel: an append-only, hash-chained log of who accessed, changed or anonymized personal data, with tamper verification.",
+            "homepage": "https://github.com/jeffersongoncalves/laravel-lgpd-audit-log",
+            "keywords": [
+                "anpd",
+                "audit-log",
+                "audit-trail",
+                "gdpr",
+                "hash-chain",
+                "laravel",
+                "lgpd",
+                "privacy"
+            ],
+            "support": {
+                "issues": "https://github.com/jeffersongoncalves/laravel-lgpd-audit-log/issues",
+                "source": "https://github.com/jeffersongoncalves/laravel-lgpd-audit-log/tree/1.0.0"
+            },
+            "funding": [
+                {
+                    "url": "https://buymeacoffee.com/jeffersongoncalves",
+                    "type": "custom"
+                },
+                {
+                    "url": "https://github.com/jeffersongoncalves",
+                    "type": "github"
+                }
+            ],
+            "time": "2026-11-16T23:05:34+00:00",
+            "published-time": "2026-11-16T23:05:43+00:00"
+        },
+        {
+            "name": "jeffersongoncalves/laravel-lgpd-consent",
+            "version": "1.1.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/jeffersongoncalves/laravel-lgpd-consent.git",
+                "reference": "cf2393b40694d1730209a2ce6848f08c8376c80c"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/jeffersongoncalves/laravel-lgpd-consent/zipball/cf2393b40694d1730209a2ce6848f08c8376c80c",
+                "reference": "cf2393b40694d1730209a2ce6848f08c8376c80c",
+                "shasum": ""
+            },
+            "require": {
+                "illuminate/contracts": "^12.0|^13.0",
+                "illuminate/database": "^12.0|^13.0",
+                "illuminate/http": "^12.0|^13.0",
+                "illuminate/routing": "^12.0|^13.0",
+                "illuminate/support": "^12.0|^13.0",
+                "illuminate/validation": "^12.0|^13.0",
+                "jeffersongoncalves/laravel-lgpd": "^1.0",
+                "php": "^8.2",
+                "spatie/laravel-package-tools": "^1.16"
+            },
+            "require-dev": {
+                "jeffersongoncalves/pest-plugin-database-migrations": "^1.0",
+                "larastan/larastan": "^3.0",
+                "laravel/pint": "^1.24",
+                "orchestra/testbench": "^10.0|^11.0",
+                "pestphp/pest": "^3.0|^4.0",
+                "pestphp/pest-plugin-laravel": "^3.0|^4.0"
+            },
+            "type": "library",
+            "extra": {
+                "laravel": {
+                    "aliases": {
+                        "LgpdConsent": "JeffersonGoncalves\\LgpdConsent\\Facades\\LgpdConsent"
+                    },
+                    "providers": [
+                        "JeffersonGoncalves\\LgpdConsent\\LgpdConsentServiceProvider"
+                    ]
+                }
+            },
+            "autoload": {
+                "psr-4": {
+                    "JeffersonGoncalves\\LgpdConsent\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Jefferson Gonçalves",
+                    "email": "gerson.simao.92@gmail.com",
+                    "role": "Developer"
+                }
+            ],
+            "description": "LGPD consent ledger for Laravel: append-only consent records per purpose and terms version, with proof of consent and revocation.",
+            "homepage": "https://github.com/jeffersongoncalves/laravel-lgpd-consent",
+            "keywords": [
+                "anpd",
+                "consent",
+                "consent-management",
+                "gdpr",
+                "laravel",
+                "lgpd",
+                "privacy"
+            ],
+            "support": {
+                "issues": "https://github.com/jeffersongoncalves/laravel-lgpd-consent/issues",
+                "source": "https://github.com/jeffersongoncalves/laravel-lgpd-consent/tree/1.1.0"
+            },
+            "funding": [
+                {
+                    "url": "https://buymeacoffee.com/jeffersongoncalves",
+                    "type": "custom"
+                },
+                {
+                    "url": "https://github.com/jeffersongoncalves",
+                    "type": "github"
+                }
+            ],
+            "time": "2026-11-17T01:40:13+00:00",
+            "published-time": "2026-11-17T01:40:35+00:00"
+        },
+        {
+            "name": "jeffersongoncalves/laravel-lgpd-dsar",
+            "version": "1.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/jeffersongoncalves/laravel-lgpd-dsar.git",
+                "reference": "7e9d004466f7104bc231e556e5a401317e880afe"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/jeffersongoncalves/laravel-lgpd-dsar/zipball/7e9d004466f7104bc231e556e5a401317e880afe",
+                "reference": "7e9d004466f7104bc231e556e5a401317e880afe",
+                "shasum": ""
+            },
+            "require": {
+                "illuminate/console": "^12.0|^13.0",
+                "illuminate/contracts": "^12.0|^13.0",
+                "illuminate/database": "^12.0|^13.0",
+                "illuminate/filesystem": "^12.0|^13.0",
+                "illuminate/support": "^12.0|^13.0",
+                "jeffersongoncalves/laravel-lgpd": "^1.0",
+                "php": "^8.2",
+                "spatie/laravel-package-tools": "^1.16"
+            },
+            "require-dev": {
+                "jeffersongoncalves/pest-plugin-database-migrations": "^1.0",
+                "larastan/larastan": "^3.0",
+                "laravel/pint": "^1.24",
+                "orchestra/testbench": "^10.0|^11.0",
+                "pestphp/pest": "^3.0|^4.0",
+                "pestphp/pest-plugin-laravel": "^3.0|^4.0"
+            },
+            "type": "library",
+            "extra": {
+                "laravel": {
+                    "aliases": {
+                        "LgpdDsar": "JeffersonGoncalves\\LgpdDsar\\Facades\\LgpdDsar"
+                    },
+                    "providers": [
+                        "JeffersonGoncalves\\LgpdDsar\\LgpdDsarServiceProvider"
+                    ]
+                }
+            },
+            "autoload": {
+                "psr-4": {
+                    "JeffersonGoncalves\\LgpdDsar\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Jefferson Gonçalves",
+                    "email": "gerson.simao.92@gmail.com",
+                    "role": "Developer"
+                }
+            ],
+            "description": "LGPD data subject requests (art. 18) for Laravel: request tracking with legal deadlines, identity verification, data export and erasure across your models.",
+            "homepage": "https://github.com/jeffersongoncalves/laravel-lgpd-dsar",
+            "keywords": [
+                "anpd",
+                "data-subject-request",
+                "dsar",
+                "gdpr",
+                "laravel",
+                "lgpd",
+                "portability",
+                "privacy"
+            ],
+            "support": {
+                "issues": "https://github.com/jeffersongoncalves/laravel-lgpd-dsar/issues",
+                "source": "https://github.com/jeffersongoncalves/laravel-lgpd-dsar/tree/1.0.0"
+            },
+            "funding": [
+                {
+                    "url": "https://buymeacoffee.com/jeffersongoncalves",
+                    "type": "custom"
+                },
+                {
+                    "url": "https://github.com/jeffersongoncalves",
+                    "type": "github"
+                }
+            ],
+            "time": "2026-11-16T19:48:40+00:00",
+            "published-time": "2026-11-16T19:49:54+00:00"
+        },
+        {
+            "name": "jeffersongoncalves/laravel-lgpd-incidents",
+            "version": "1.1.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/jeffersongoncalves/laravel-lgpd-incidents.git",
+                "reference": "721d1ef9a527660fbcb77ce403d02cc2e893c34d"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/jeffersongoncalves/laravel-lgpd-incidents/zipball/721d1ef9a527660fbcb77ce403d02cc2e893c34d",
+                "reference": "721d1ef9a527660fbcb77ce403d02cc2e893c34d",
+                "shasum": ""
+            },
+            "require": {
+                "illuminate/console": "^12.0|^13.0",
+                "illuminate/contracts": "^12.0|^13.0",
+                "illuminate/database": "^12.0|^13.0",
+                "illuminate/support": "^12.0|^13.0",
+                "jeffersongoncalves/laravel-brazil-holidays": "^1.0",
+                "php": "^8.2",
+                "spatie/laravel-package-tools": "^1.16"
+            },
+            "require-dev": {
+                "jeffersongoncalves/pest-plugin-database-migrations": "^1.0",
+                "larastan/larastan": "^3.0",
+                "laravel/pint": "^1.24",
+                "orchestra/testbench": "^10.0|^11.0",
+                "pestphp/pest": "^3.0|^4.0",
+                "pestphp/pest-plugin-laravel": "^3.0|^4.0"
+            },
+            "type": "library",
+            "extra": {
+                "laravel": {
+                    "aliases": {
+                        "LgpdIncidents": "JeffersonGoncalves\\LgpdIncidents\\Facades\\LgpdIncidents"
+                    },
+                    "providers": [
+                        "JeffersonGoncalves\\LgpdIncidents\\LgpdIncidentsServiceProvider"
+                    ]
+                }
+            },
+            "autoload": {
+                "psr-4": {
+                    "JeffersonGoncalves\\LgpdIncidents\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Jefferson Gonçalves",
+                    "email": "gerson.simao.92@gmail.com",
+                    "role": "Developer"
+                }
+            ],
+            "description": "LGPD security incident register for Laravel: track incidents, risk assessment and the 3-business-day ANPD and data subject notification deadline (Resolução CD/ANPD 15/2024).",
+            "homepage": "https://github.com/jeffersongoncalves/laravel-lgpd-incidents",
+            "keywords": [
+                "anpd",
+                "data-breach",
+                "gdpr",
+                "incident",
+                "laravel",
+                "lgpd",
+                "privacy",
+                "security-incident"
+            ],
+            "support": {
+                "issues": "https://github.com/jeffersongoncalves/laravel-lgpd-incidents/issues",
+                "source": "https://github.com/jeffersongoncalves/laravel-lgpd-incidents/tree/1.1.0"
+            },
+            "funding": [
+                {
+                    "url": "https://buymeacoffee.com/jeffersongoncalves",
+                    "type": "custom"
+                },
+                {
+                    "url": "https://github.com/jeffersongoncalves",
+                    "type": "github"
+                }
+            ],
+            "time": "2026-11-17T01:40:18+00:00",
+            "published-time": "2026-11-17T01:40:23+00:00"
+        },
+        {
+            "name": "jeffersongoncalves/laravel-lgpd-minors",
+            "version": "1.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/jeffersongoncalves/laravel-lgpd-minors.git",
+                "reference": "1feba958e54e8702598198e5e5ceba974aa05697"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/jeffersongoncalves/laravel-lgpd-minors/zipball/1feba958e54e8702598198e5e5ceba974aa05697",
+                "reference": "1feba958e54e8702598198e5e5ceba974aa05697",
+                "shasum": ""
+            },
+            "require": {
+                "illuminate/console": "^12.0|^13.0",
+                "illuminate/contracts": "^12.0|^13.0",
+                "illuminate/database": "^12.0|^13.0",
+                "illuminate/http": "^12.0|^13.0",
+                "illuminate/routing": "^12.0|^13.0",
+                "illuminate/support": "^12.0|^13.0",
+                "illuminate/view": "^12.0|^13.0",
+                "php": "^8.2",
+                "spatie/laravel-package-tools": "^1.16"
+            },
+            "require-dev": {
+                "jeffersongoncalves/pest-plugin-database-migrations": "^1.0",
+                "larastan/larastan": "^3.0",
+                "laravel/pint": "^1.24",
+                "orchestra/testbench": "^10.0|^11.0",
+                "pestphp/pest": "^3.0|^4.0",
+                "pestphp/pest-plugin-laravel": "^3.0|^4.0"
+            },
+            "type": "library",
+            "extra": {
+                "laravel": {
+                    "aliases": {
+                        "LgpdMinors": "JeffersonGoncalves\\LgpdMinors\\Facades\\LgpdMinors"
+                    },
+                    "providers": [
+                        "JeffersonGoncalves\\LgpdMinors\\LgpdMinorsServiceProvider"
+                    ]
+                }
+            },
+            "autoload": {
+                "psr-4": {
+                    "JeffersonGoncalves\\LgpdMinors\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Jefferson Gonçalves",
+                    "email": "gerson.simao.92@gmail.com",
+                    "role": "Developer"
+                }
+            ],
+            "description": "ECA Digital (Lei 15.211/2025) toolkit for Laravel: age assurance results without raw documents, most-protective age band, guardian linking for accounts up to 16, suspension with appeal, adult-only route gate and ad-profiling block for minors.",
+            "homepage": "https://github.com/jeffersongoncalves/laravel-lgpd-minors",
+            "keywords": [
+                "age-assurance",
+                "age-verification",
+                "anpd",
+                "children",
+                "eca-digital",
+                "laravel",
+                "lgpd",
+                "minors",
+                "parental-control",
+                "privacy"
+            ],
+            "support": {
+                "issues": "https://github.com/jeffersongoncalves/laravel-lgpd-minors/issues",
+                "source": "https://github.com/jeffersongoncalves/laravel-lgpd-minors/tree/1.0.0"
+            },
+            "funding": [
+                {
+                    "url": "https://buymeacoffee.com/jeffersongoncalves",
+                    "type": "custom"
+                },
+                {
+                    "url": "https://github.com/jeffersongoncalves",
+                    "type": "github"
+                }
+            ],
+            "time": "2026-11-17T10:01:56+00:00",
+            "published-time": "2026-11-17T10:02:10+00:00"
+        },
+        {
+            "name": "jeffersongoncalves/laravel-lgpd-records",
+            "version": "1.1.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/jeffersongoncalves/laravel-lgpd-records.git",
+                "reference": "af30b0cda32634196e1bdae6fea437f6125f9b76"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/jeffersongoncalves/laravel-lgpd-records/zipball/af30b0cda32634196e1bdae6fea437f6125f9b76",
+                "reference": "af30b0cda32634196e1bdae6fea437f6125f9b76",
+                "shasum": ""
+            },
+            "require": {
+                "illuminate/console": "^12.0|^13.0",
+                "illuminate/contracts": "^12.0|^13.0",
+                "illuminate/database": "^12.0|^13.0",
+                "illuminate/support": "^12.0|^13.0",
+                "illuminate/view": "^12.0|^13.0",
+                "jeffersongoncalves/laravel-lgpd": "^1.1",
+                "php": "^8.2",
+                "spatie/laravel-package-tools": "^1.16"
+            },
+            "require-dev": {
+                "jeffersongoncalves/pest-plugin-database-migrations": "^1.0",
+                "larastan/larastan": "^3.0",
+                "laravel/pint": "^1.24",
+                "orchestra/testbench": "^10.0|^11.0",
+                "pestphp/pest": "^3.0|^4.0",
+                "pestphp/pest-plugin-laravel": "^3.0|^4.0"
+            },
+            "type": "library",
+            "extra": {
+                "laravel": {
+                    "aliases": {
+                        "LgpdRecords": "JeffersonGoncalves\\LgpdRecords\\Facades\\LgpdRecords"
+                    },
+                    "providers": [
+                        "JeffersonGoncalves\\LgpdRecords\\LgpdRecordsServiceProvider"
+                    ]
+                }
+            },
+            "autoload": {
+                "psr-4": {
+                    "JeffersonGoncalves\\LgpdRecords\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Jefferson Gonçalves",
+                    "email": "gerson.simao.92@gmail.com",
+                    "role": "Developer"
+                }
+            ],
+            "description": "LGPD records of processing activities (ROPA) for Laravel: purposes, legal bases, recipients and international transfers, joined with the personal data inventory, plus the data protection officer's public contact.",
+            "homepage": "https://github.com/jeffersongoncalves/laravel-lgpd-records",
+            "keywords": [
+                "anpd",
+                "dpo",
+                "encarregado",
+                "gdpr",
+                "laravel",
+                "lgpd",
+                "privacy",
+                "records-of-processing",
+                "ropa"
+            ],
+            "support": {
+                "issues": "https://github.com/jeffersongoncalves/laravel-lgpd-records/issues",
+                "source": "https://github.com/jeffersongoncalves/laravel-lgpd-records/tree/1.1.0"
+            },
+            "funding": [
+                {
+                    "url": "https://buymeacoffee.com/jeffersongoncalves",
+                    "type": "custom"
+                },
+                {
+                    "url": "https://github.com/jeffersongoncalves",
+                    "type": "github"
+                }
+            ],
+            "time": "2026-11-17T01:38:44+00:00",
+            "published-time": "2026-11-17T01:38:48+00:00"
+        },
+        {
+            "name": "jeffersongoncalves/laravel-lgpd-retention",
+            "version": "1.1.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/jeffersongoncalves/laravel-lgpd-retention.git",
+                "reference": "70b64b2cab422f81b2fcb4564368ff16437095b3"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/jeffersongoncalves/laravel-lgpd-retention/zipball/70b64b2cab422f81b2fcb4564368ff16437095b3",
+                "reference": "70b64b2cab422f81b2fcb4564368ff16437095b3",
+                "shasum": ""
+            },
+            "require": {
+                "illuminate/console": "^12.0|^13.0",
+                "illuminate/contracts": "^12.0|^13.0",
+                "illuminate/database": "^12.0|^13.0",
+                "illuminate/support": "^12.0|^13.0",
+                "jeffersongoncalves/laravel-lgpd": "^1.1",
+                "php": "^8.2",
+                "spatie/laravel-package-tools": "^1.16"
+            },
+            "require-dev": {
+                "jeffersongoncalves/pest-plugin-database-migrations": "^1.0",
+                "larastan/larastan": "^3.0",
+                "laravel/pint": "^1.24",
+                "orchestra/testbench": "^10.0|^11.0",
+                "pestphp/pest": "^3.0|^4.0",
+                "pestphp/pest-plugin-laravel": "^3.0|^4.0"
+            },
+            "type": "library",
+            "extra": {
+                "laravel": {
+                    "aliases": {
+                        "LgpdRetention": "JeffersonGoncalves\\LgpdRetention\\Facades\\LgpdRetention"
+                    },
+                    "providers": [
+                        "JeffersonGoncalves\\LgpdRetention\\LgpdRetentionServiceProvider"
+                    ]
+                }
+            },
+            "autoload": {
+                "psr-4": {
+                    "JeffersonGoncalves\\LgpdRetention\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Jefferson Gonçalves",
+                    "email": "gerson.simao.92@gmail.com",
+                    "role": "Developer"
+                }
+            ],
+            "description": "LGPD data retention for Laravel: anonymize personal data when its retention period ends, with tombstones that re-apply erasure after backup restores.",
+            "homepage": "https://github.com/jeffersongoncalves/laravel-lgpd-retention",
+            "keywords": [
+                "anonymization",
+                "anpd",
+                "data-retention",
+                "gdpr",
+                "laravel",
+                "lgpd",
+                "privacy",
+                "retention"
+            ],
+            "support": {
+                "issues": "https://github.com/jeffersongoncalves/laravel-lgpd-retention/issues",
+                "source": "https://github.com/jeffersongoncalves/laravel-lgpd-retention/tree/1.1.0"
+            },
+            "funding": [
+                {
+                    "url": "https://buymeacoffee.com/jeffersongoncalves",
+                    "type": "custom"
+                },
+                {
+                    "url": "https://github.com/jeffersongoncalves",
+                    "type": "github"
+                }
+            ],
+            "time": "2026-11-16T20:34:34+00:00",
+            "published-time": "2026-11-16T20:34:47+00:00"
+        },
+        {
+            "name": "jeffersongoncalves/laravel-lgpd-ripd",
+            "version": "1.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/jeffersongoncalves/laravel-lgpd-ripd.git",
+                "reference": "5955033e9642e17f0bad9e344eaecd0017a990c9"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/jeffersongoncalves/laravel-lgpd-ripd/zipball/5955033e9642e17f0bad9e344eaecd0017a990c9",
+                "reference": "5955033e9642e17f0bad9e344eaecd0017a990c9",
+                "shasum": ""
+            },
+            "require": {
+                "illuminate/console": "^12.0|^13.0",
+                "illuminate/contracts": "^12.0|^13.0",
+                "illuminate/database": "^12.0|^13.0",
+                "illuminate/support": "^12.0|^13.0",
+                "jeffersongoncalves/laravel-lgpd": "^1.1",
+                "jeffersongoncalves/laravel-lgpd-records": "^1.0",
+                "php": "^8.2",
+                "spatie/laravel-package-tools": "^1.16"
+            },
+            "require-dev": {
+                "jeffersongoncalves/pest-plugin-database-migrations": "^1.0",
+                "larastan/larastan": "^3.0",
+                "laravel/pint": "^1.24",
+                "orchestra/testbench": "^10.0|^11.0",
+                "pestphp/pest": "^3.0|^4.0",
+                "pestphp/pest-plugin-laravel": "^3.0|^4.0"
+            },
+            "type": "library",
+            "extra": {
+                "laravel": {
+                    "aliases": {
+                        "LgpdRipd": "JeffersonGoncalves\\LgpdRipd\\Facades\\LgpdRipd"
+                    },
+                    "providers": [
+                        "JeffersonGoncalves\\LgpdRipd\\LgpdRipdServiceProvider"
+                    ]
+                }
+            },
+            "autoload": {
+                "psr-4": {
+                    "JeffersonGoncalves\\LgpdRipd\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Jefferson Gonçalves",
+                    "email": "gerson.simao.92@gmail.com",
+                    "role": "Developer"
+                }
+            ],
+            "description": "LGPD data protection impact assessment (RIPD) for Laravel: risks scored by likelihood and impact with LINDDUN threats, mitigations and residual risk, DPO opinion, approval and periodic review, linked to the records of processing.",
+            "homepage": "https://github.com/jeffersongoncalves/laravel-lgpd-ripd",
+            "keywords": [
+                "anpd",
+                "dpia",
+                "gdpr",
+                "impact-assessment",
+                "laravel",
+                "lgpd",
+                "linddun",
+                "privacy",
+                "ripd",
+                "risk"
+            ],
+            "support": {
+                "issues": "https://github.com/jeffersongoncalves/laravel-lgpd-ripd/issues",
+                "source": "https://github.com/jeffersongoncalves/laravel-lgpd-ripd/tree/1.0.0"
+            },
+            "funding": [
+                {
+                    "url": "https://buymeacoffee.com/jeffersongoncalves",
+                    "type": "custom"
+                },
+                {
+                    "url": "https://github.com/jeffersongoncalves",
+                    "type": "github"
+                }
+            ],
+            "time": "2026-11-17T01:39:41+00:00",
+            "published-time": "2026-11-17T01:40:26+00:00"
+        },
+        {
+            "name": "jeffersongoncalves/laravel-lgpd-takedown",
+            "version": "1.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/jeffersongoncalves/laravel-lgpd-takedown.git",
+                "reference": "0ae106a8679b1a188c78bfe7b4c16d4898511893"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/jeffersongoncalves/laravel-lgpd-takedown/zipball/0ae106a8679b1a188c78bfe7b4c16d4898511893",
+                "reference": "0ae106a8679b1a188c78bfe7b4c16d4898511893",
+                "shasum": ""
+            },
+            "require": {
+                "illuminate/console": "^12.0|^13.0",
+                "illuminate/contracts": "^12.0|^13.0",
+                "illuminate/database": "^12.0|^13.0",
+                "illuminate/http": "^12.0|^13.0",
+                "illuminate/routing": "^12.0|^13.0",
+                "illuminate/support": "^12.0|^13.0",
+                "illuminate/validation": "^12.0|^13.0",
+                "php": "^8.2",
+                "spatie/laravel-package-tools": "^1.16"
+            },
+            "require-dev": {
+                "jeffersongoncalves/pest-plugin-database-migrations": "^1.0",
+                "larastan/larastan": "^3.0",
+                "laravel/pint": "^1.24",
+                "orchestra/testbench": "^10.0|^11.0",
+                "pestphp/pest": "^3.0|^4.0",
+                "pestphp/pest-plugin-laravel": "^3.0|^4.0"
+            },
+            "type": "library",
+            "extra": {
+                "laravel": {
+                    "aliases": {
+                        "LgpdTakedown": "JeffersonGoncalves\\LgpdTakedown\\Facades\\LgpdTakedown"
+                    },
+                    "providers": [
+                        "JeffersonGoncalves\\LgpdTakedown\\LgpdTakedownServiceProvider"
+                    ]
+                }
+            },
+            "autoload": {
+                "psr-4": {
+                    "JeffersonGoncalves\\LgpdTakedown\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Jefferson Gonçalves",
+                    "email": "gerson.simao.92@gmail.com",
+                    "role": "Developer"
+                }
+            ],
+            "description": "ECA Digital notice and takedown for Laravel: public report channel with identified reporters, immediate removal of grave content (art. 27), authority reporting, author notice and appeal (art. 30), retention under Marco Civil art. 15 and abusive-reporter flags.",
+            "homepage": "https://github.com/jeffersongoncalves/laravel-lgpd-takedown",
+            "keywords": [
+                "anpd",
+                "child-safety",
+                "content-moderation",
+                "eca-digital",
+                "laravel",
+                "lgpd",
+                "minors",
+                "report",
+                "takedown"
+            ],
+            "support": {
+                "issues": "https://github.com/jeffersongoncalves/laravel-lgpd-takedown/issues",
+                "source": "https://github.com/jeffersongoncalves/laravel-lgpd-takedown/tree/1.0.0"
+            },
+            "funding": [
+                {
+                    "url": "https://buymeacoffee.com/jeffersongoncalves",
+                    "type": "custom"
+                },
+                {
+                    "url": "https://github.com/jeffersongoncalves",
+                    "type": "github"
+                }
+            ],
+            "time": "2026-11-17T11:28:14+00:00",
+            "published-time": "2026-11-17T11:28:38+00:00"
+        },
+        {
+            "name": "jeffersongoncalves/laravel-lgpd-vendors",
+            "version": "1.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/jeffersongoncalves/laravel-lgpd-vendors.git",
+                "reference": "05c6cc74b43772ee376f4170b555cc34d454d934"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/jeffersongoncalves/laravel-lgpd-vendors/zipball/05c6cc74b43772ee376f4170b555cc34d454d934",
+                "reference": "05c6cc74b43772ee376f4170b555cc34d454d934",
+                "shasum": ""
+            },
+            "require": {
+                "illuminate/console": "^12.0|^13.0",
+                "illuminate/contracts": "^12.0|^13.0",
+                "illuminate/database": "^12.0|^13.0",
+                "illuminate/support": "^12.0|^13.0",
+                "php": "^8.2",
+                "spatie/laravel-package-tools": "^1.16"
+            },
+            "require-dev": {
+                "jeffersongoncalves/pest-plugin-database-migrations": "^1.0",
+                "larastan/larastan": "^3.0",
+                "laravel/pint": "^1.24",
+                "orchestra/testbench": "^10.0|^11.0",
+                "pestphp/pest": "^3.0|^4.0",
+                "pestphp/pest-plugin-laravel": "^3.0|^4.0"
+            },
+            "type": "library",
+            "extra": {
+                "laravel": {
+                    "providers": [
+                        "JeffersonGoncalves\\LgpdVendors\\LgpdVendorsServiceProvider"
+                    ]
+                }
+            },
+            "autoload": {
+                "psr-4": {
+                    "JeffersonGoncalves\\LgpdVendors\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Jefferson Gonçalves",
+                    "email": "gerson.simao.92@gmail.com",
+                    "role": "Developer"
+                }
+            ],
+            "description": "LGPD vendor register for Laravel: processors and controllers you share personal data with, risk tier, data processing agreement checklist, international transfer mechanism and periodic review.",
+            "homepage": "https://github.com/jeffersongoncalves/laravel-lgpd-vendors",
+            "keywords": [
+                "anpd",
+                "data-processing-agreement",
+                "dpa",
+                "gdpr",
+                "international-transfer",
+                "laravel",
+                "lgpd",
+                "privacy",
+                "processors",
+                "vendors"
+            ],
+            "support": {
+                "issues": "https://github.com/jeffersongoncalves/laravel-lgpd-vendors/issues",
+                "source": "https://github.com/jeffersongoncalves/laravel-lgpd-vendors/tree/1.0.0"
+            },
+            "funding": [
+                {
+                    "url": "https://buymeacoffee.com/jeffersongoncalves",
+                    "type": "custom"
+                },
+                {
+                    "url": "https://github.com/jeffersongoncalves",
+                    "type": "github"
+                }
+            ],
+            "time": "2026-11-17T01:39:46+00:00",
+            "published-time": "2026-11-17T01:40:25+00:00"
         },
         {
             "name": "jeffersongoncalves/laravel-pwa-favicon",
@@ -3671,20 +5678,21 @@
                 "issues": "https://github.com/kirschbaum-development/eloquent-power-joins/issues",
                 "source": "https://github.com/kirschbaum-development/eloquent-power-joins/tree/4.3.6"
             },
-            "time": "2026-10-24T14:38:24+00:00"
+            "time": "2026-10-24T14:38:24+00:00",
+            "published-time": "2026-10-24T14:38:47+00:00"
         },
         {
             "name": "laravel/framework",
-            "version": "v13.42.0",
+            "version": "v13.43.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/laravel/framework.git",
-                "reference": "f5c01f6b63803f16f38ebb31622c4fea412bd022"
+                "reference": "72aa7e151062e218704d8660f407e6070040d8bc"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/laravel/framework/zipball/f5c01f6b63803f16f38ebb31622c4fea412bd022",
-                "reference": "f5c01f6b63803f16f38ebb31622c4fea412bd022",
+                "url": "https://api.github.com/repos/laravel/framework/zipball/72aa7e151062e218704d8660f407e6070040d8bc",
+                "reference": "72aa7e151062e218704d8660f407e6070040d8bc",
                 "shasum": ""
             },
             "require": {
@@ -3739,6 +5747,7 @@
                 "voku/portable-ascii": "^2.0.2"
             },
             "conflict": {
+                "laravel/horizon": "<5.47.0",
                 "tightenco/collect": "<5.5.33"
             },
             "provide": {
@@ -3903,7 +5912,8 @@
                 "issues": "https://github.com/laravel/framework/issues",
                 "source": "https://github.com/laravel/framework"
             },
-            "time": "2026-11-10T15:54:30+00:00"
+            "time": "2026-11-17T14:58:33+00:00",
+            "published-time": "2026-11-17T14:58:44+00:00"
         },
         {
             "name": "laravel/prompts",
@@ -3961,7 +5971,8 @@
             "support": {
                 "source": "https://github.com/laravel/prompts/tree/v0.3.27"
             },
-            "time": "2026-11-09T16:07:10+00:00"
+            "time": "2026-11-09T16:07:10+00:00",
+            "published-time": "2026-11-09T16:09:07+00:00"
         },
         {
             "name": "laravel/serializable-closure",
@@ -4022,7 +6033,8 @@
                 "issues": "https://github.com/laravel/serializable-closure/issues",
                 "source": "https://github.com/laravel/serializable-closure"
             },
-            "time": "2026-10-14T21:20:29+00:00"
+            "time": "2026-10-14T21:20:29+00:00",
+            "published-time": "2026-11-10T16:11:08+00:00"
         },
         {
             "name": "laravel/tinker",
@@ -4197,7 +6209,8 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2026-10-31T13:35:37+00:00"
+            "time": "2026-10-31T13:35:37+00:00",
+            "published-time": "2026-10-31T13:35:57+00:00"
         },
         {
             "name": "league/config",
@@ -4279,7 +6292,8 @@
                     "type": "github"
                 }
             ],
-            "time": "2022-12-11T20:36:23+00:00"
+            "time": "2022-12-11T20:36:23+00:00",
+            "published-time": "2022-12-11T20:36:45+00:00"
         },
         {
             "name": "league/csv",
@@ -4374,7 +6388,8 @@
                     "type": "github"
                 }
             ],
-            "time": "2026-10-28T08:56:24+00:00"
+            "time": "2026-10-28T08:56:24+00:00",
+            "published-time": "2026-10-28T08:59:25+00:00"
         },
         {
             "name": "league/flysystem",
@@ -4457,7 +6472,8 @@
                 "issues": "https://github.com/thephpleague/flysystem/issues",
                 "source": "https://github.com/thephpleague/flysystem/tree/3.36.0"
             },
-            "time": "2026-09-02T08:00:27+00:00"
+            "time": "2026-09-02T08:00:27+00:00",
+            "published-time": "2026-09-02T08:01:40+00:00"
         },
         {
             "name": "league/flysystem-local",
@@ -4506,7 +6522,8 @@
             "support": {
                 "source": "https://github.com/thephpleague/flysystem-local/tree/3.35.3"
             },
-            "time": "2026-08-12T13:29:21+00:00"
+            "time": "2026-08-12T13:29:21+00:00",
+            "published-time": "2026-08-22T12:57:18+00:00"
         },
         {
             "name": "league/mime-type-detection",
@@ -4562,7 +6579,8 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2026-07-09T11:49:27+00:00"
+            "time": "2026-07-09T11:49:27+00:00",
+            "published-time": "2026-07-09T11:50:09+00:00"
         },
         {
             "name": "league/uri",
@@ -4661,24 +6679,25 @@
                     "type": "github"
                 }
             ],
-            "time": "2026-11-04T12:45:07+00:00"
+            "time": "2026-11-04T12:45:07+00:00",
+            "published-time": "2026-11-04T13:02:21+00:00"
         },
         {
             "name": "league/uri-components",
-            "version": "7.9.1",
+            "version": "7.10.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/thephpleague/uri-components.git",
-                "reference": "d831eb3ca07f43b771d7208e13421761efcdf724"
+                "reference": "2a790e66948d3504a2f2cd42b80d4b8874601540"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/thephpleague/uri-components/zipball/d831eb3ca07f43b771d7208e13421761efcdf724",
-                "reference": "d831eb3ca07f43b771d7208e13421761efcdf724",
+                "url": "https://api.github.com/repos/thephpleague/uri-components/zipball/2a790e66948d3504a2f2cd42b80d4b8874601540",
+                "reference": "2a790e66948d3504a2f2cd42b80d4b8874601540",
                 "shasum": ""
             },
             "require": {
-                "league/uri": "^7.9.1",
+                "league/uri": "^7.10.0",
                 "php": "^8.1"
             },
             "suggest": {
@@ -4686,12 +6705,13 @@
                 "ext-fileinfo": "to create Data URI from file contennts",
                 "ext-gmp": "to improve IPV4 host parsing",
                 "ext-intl": "to handle IDN host with the best performance",
-                "ext-mbstring": "to use the sorting algorithm of URLSearchParams",
+                "ext-mbstring": "to use the sorting algorithm for Query parameter",
                 "jeremykendall/php-domain-parser": "to further parse the URI host and resolve its Public Suffix and Top Level Domain",
                 "league/uri-polyfill": "to backport the PHP URI extension for older versions of PHP",
                 "php-64bit": "to improve IPV4 host parsing",
                 "rowbot/url": "to handle URLs using the WHATWG URL Living Standard specification",
-                "symfony/polyfill-intl-idn": "to handle IDN host via the Symfony polyfill if ext-intl is not present"
+                "symfony/polyfill-intl-idn": "to handle IDN host via the Symfony polyfill if ext-intl is not present",
+                "symfony/polyfill-mbstring": "to handle query sorting if ext-mbstring is not present"
             },
             "type": "library",
             "extra": {
@@ -4737,7 +6757,7 @@
                 "docs": "https://uri.thephpleague.com",
                 "forum": "https://thephpleague.slack.com",
                 "issues": "https://github.com/thephpleague/uri-src/issues",
-                "source": "https://github.com/thephpleague/uri-components/tree/7.9.1"
+                "source": "https://github.com/thephpleague/uri-components/tree/7.10.0"
             },
             "funding": [
                 {
@@ -4745,7 +6765,8 @@
                     "type": "github"
                 }
             ],
-            "time": "2026-10-27T07:14:23+00:00"
+            "time": "2026-11-04T12:45:07+00:00",
+            "published-time": "2026-11-04T13:02:25+00:00"
         },
         {
             "name": "league/uri-interfaces",
@@ -4829,7 +6850,8 @@
                     "type": "github"
                 }
             ],
-            "time": "2026-11-04T12:45:07+00:00"
+            "time": "2026-11-04T12:45:07+00:00",
+            "published-time": "2026-11-04T13:02:27+00:00"
         },
         {
             "name": "livewire/livewire",
@@ -4905,7 +6927,8 @@
                     "type": "github"
                 }
             ],
-            "time": "2026-10-21T01:43:35+00:00"
+            "time": "2026-10-21T01:43:35+00:00",
+            "published-time": "2026-10-21T14:02:37+00:00"
         },
         {
             "name": "mobiledetect/mobiledetectlib",
@@ -5072,7 +7095,8 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2026-11-16T10:43:05+00:00"
+            "time": "2026-11-16T10:43:05+00:00",
+            "published-time": "2026-11-16T10:45:37+00:00"
         },
         {
             "name": "nesbot/carbon",
@@ -5178,7 +7202,8 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2026-10-25T14:32:48+00:00"
+            "time": "2026-10-25T14:32:48+00:00",
+            "published-time": "2026-10-25T14:41:05+00:00"
         },
         {
             "name": "nette/php-generator",
@@ -5249,7 +7274,8 @@
                 "issues": "https://github.com/nette/php-generator/issues",
                 "source": "https://github.com/nette/php-generator/tree/v4.2.4"
             },
-            "time": "2026-10-26T22:16:39+00:00"
+            "time": "2026-10-26T22:16:39+00:00",
+            "published-time": "2026-10-26T22:17:59+00:00"
         },
         {
             "name": "nette/schema",
@@ -5316,7 +7342,8 @@
                 "issues": "https://github.com/nette/schema/issues",
                 "source": "https://github.com/nette/schema/tree/v1.4.0"
             },
-            "time": "2026-10-22T02:12:50+00:00"
+            "time": "2026-10-22T02:12:50+00:00",
+            "published-time": "2026-10-22T02:14:45+00:00"
         },
         {
             "name": "nette/utils",
@@ -5407,7 +7434,8 @@
                 "issues": "https://github.com/nette/utils/issues",
                 "source": "https://github.com/nette/utils/tree/v4.1.6"
             },
-            "time": "2026-10-20T17:07:56+00:00"
+            "time": "2026-10-20T17:07:56+00:00",
+            "published-time": "2026-10-20T17:48:30+00:00"
         },
         {
             "name": "nikic/php-parser",
@@ -5551,7 +7579,8 @@
                     "type": "github"
                 }
             ],
-            "time": "2026-11-07T03:57:16+00:00"
+            "time": "2026-11-07T03:57:16+00:00",
+            "published-time": "2026-11-07T04:01:24+00:00"
         },
         {
             "name": "openspout/openspout",
@@ -5644,20 +7673,21 @@
                     "type": "github"
                 }
             ],
-            "time": "2025-09-03T16:03:54+00:00"
+            "time": "2025-09-03T16:03:54+00:00",
+            "published-time": "2025-09-03T16:17:36+00:00"
         },
         {
             "name": "paragonie/constant_time_encoding",
-            "version": "v3.1.3",
+            "version": "v3.1.4",
             "source": {
                 "type": "git",
                 "url": "https://github.com/paragonie/constant_time_encoding.git",
-                "reference": "d5b01a39b3415c2cd581d3bd3a3575c1ebbd8e77"
+                "reference": "5efef6e6cb43e088ccab7d0c1e2f2ab25b9e8b54"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/paragonie/constant_time_encoding/zipball/d5b01a39b3415c2cd581d3bd3a3575c1ebbd8e77",
-                "reference": "d5b01a39b3415c2cd581d3bd3a3575c1ebbd8e77",
+                "url": "https://api.github.com/repos/paragonie/constant_time_encoding/zipball/5efef6e6cb43e088ccab7d0c1e2f2ab25b9e8b54",
+                "reference": "5efef6e6cb43e088ccab7d0c1e2f2ab25b9e8b54",
                 "shasum": ""
             },
             "require": {
@@ -5713,7 +7743,8 @@
                 "issues": "https://github.com/paragonie/constant_time_encoding/issues",
                 "source": "https://github.com/paragonie/constant_time_encoding"
             },
-            "time": "2025-09-24T15:06:41+00:00"
+            "time": "2026-11-06T20:31:19+00:00",
+            "published-time": "2026-11-06T20:39:39+00:00"
         },
         {
             "name": "phiki/phiki",
@@ -5842,7 +7873,8 @@
                 "issues": "https://github.com/phpDocumentor/ReflectionCommon/issues",
                 "source": "https://github.com/phpDocumentor/ReflectionCommon/tree/2.2.1"
             },
-            "time": "2025-11-10T21:21:55+00:00"
+            "time": "2025-11-10T21:21:55+00:00",
+            "published-time": "2026-09-27T10:14:49+00:00"
         },
         {
             "name": "phpdocumentor/type-resolver",
@@ -5900,7 +7932,8 @@
                 "issues": "https://github.com/phpDocumentor/TypeResolver/issues",
                 "source": "https://github.com/phpDocumentor/TypeResolver/tree/2.1.0"
             },
-            "time": "2026-09-27T19:32:54+00:00"
+            "time": "2026-09-27T19:32:54+00:00",
+            "published-time": "2026-09-28T18:39:55+00:00"
         },
         {
             "name": "phpoption/phpoption",
@@ -5975,7 +8008,8 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2026-08-24T00:54:40+00:00"
+            "time": "2026-08-24T00:54:40+00:00",
+            "published-time": "2026-08-24T01:09:05+00:00"
         },
         {
             "name": "phpstan/phpdoc-parser",
@@ -6022,7 +8056,8 @@
                 "issues": "https://github.com/phpstan/phpdoc-parser/issues",
                 "source": "https://github.com/phpstan/phpdoc-parser/tree/2.4.1"
             },
-            "time": "2026-10-30T19:36:28+00:00"
+            "time": "2026-10-30T19:36:28+00:00",
+            "published-time": "2026-10-30T19:37:11+00:00"
         },
         {
             "name": "pragmarx/google2fa",
@@ -6086,7 +8121,8 @@
                 "security": "https://github.com/antonioribeiro/google2fa/security/policy",
                 "source": "https://github.com/antonioribeiro/google2fa"
             },
-            "time": "2026-08-15T13:22:01+00:00"
+            "time": "2026-08-15T13:22:01+00:00",
+            "published-time": "2026-08-15T13:28:13+00:00"
         },
         {
             "name": "pragmarx/google2fa-qrcode",
@@ -6154,7 +8190,8 @@
                 "issues": "https://github.com/antonioribeiro/google2fa-qrcode/issues",
                 "source": "https://github.com/antonioribeiro/google2fa-qrcode/tree/v4.0.0"
             },
-            "time": "2026-05-08T19:24:44+00:00"
+            "time": "2026-05-08T19:24:44+00:00",
+            "published-time": "2026-05-08T19:32:27+00:00"
         },
         {
             "name": "psr/clock",
@@ -6202,7 +8239,8 @@
                 "issues": "https://github.com/php-fig/clock/issues",
                 "source": "https://github.com/php-fig/clock/tree/1.0.0"
             },
-            "time": "2022-11-25T14:36:26+00:00"
+            "time": "2022-11-25T14:36:26+00:00",
+            "published-time": "2022-11-25T14:59:22+00:00"
         },
         {
             "name": "psr/container",
@@ -6255,7 +8293,8 @@
                 "issues": "https://github.com/php-fig/container/issues",
                 "source": "https://github.com/php-fig/container/tree/2.0.2"
             },
-            "time": "2021-11-05T16:47:00+00:00"
+            "time": "2021-11-05T16:47:00+00:00",
+            "published-time": "2021-11-05T16:53:27+00:00"
         },
         {
             "name": "psr/event-dispatcher",
@@ -6305,7 +8344,8 @@
                 "issues": "https://github.com/php-fig/event-dispatcher/issues",
                 "source": "https://github.com/php-fig/event-dispatcher/tree/1.0.0"
             },
-            "time": "2019-01-08T18:20:26+00:00"
+            "time": "2019-01-08T18:20:26+00:00",
+            "published-time": "2019-03-25T15:31:44+00:00"
         },
         {
             "name": "psr/http-client",
@@ -6357,7 +8397,8 @@
             "support": {
                 "source": "https://github.com/php-fig/http-client"
             },
-            "time": "2023-09-23T14:17:50+00:00"
+            "time": "2023-09-23T14:17:50+00:00",
+            "published-time": "2023-09-23T14:18:12+00:00"
         },
         {
             "name": "psr/http-factory",
@@ -6412,7 +8453,8 @@
             "support": {
                 "source": "https://github.com/php-fig/http-factory"
             },
-            "time": "2024-04-15T12:06:14+00:00"
+            "time": "2024-04-15T12:06:14+00:00",
+            "published-time": "2024-05-10T07:32:19+00:00"
         },
         {
             "name": "psr/http-message",
@@ -6465,7 +8507,8 @@
             "support": {
                 "source": "https://github.com/php-fig/http-message/tree/2.0"
             },
-            "time": "2023-04-04T09:54:51+00:00"
+            "time": "2023-04-04T09:54:51+00:00",
+            "published-time": "2023-04-04T09:55:35+00:00"
         },
         {
             "name": "psr/log",
@@ -6515,7 +8558,8 @@
             "support": {
                 "source": "https://github.com/php-fig/log/tree/3.0.2"
             },
-            "time": "2024-09-11T13:17:53+00:00"
+            "time": "2024-09-11T13:17:53+00:00",
+            "published-time": "2024-09-11T13:21:14+00:00"
         },
         {
             "name": "psr/simple-cache",
@@ -6566,7 +8610,8 @@
             "support": {
                 "source": "https://github.com/php-fig/simple-cache/tree/3.0.0"
             },
-            "time": "2021-10-29T13:26:27+00:00"
+            "time": "2021-10-29T13:26:27+00:00",
+            "published-time": "2021-10-29T13:27:19+00:00"
         },
         {
             "name": "psy/psysh",
@@ -6721,7 +8766,8 @@
                 "issues": "https://github.com/ramsey/collection/issues",
                 "source": "https://github.com/ramsey/collection/tree/2.1.1"
             },
-            "time": "2025-03-22T05:38:12+00:00"
+            "time": "2025-03-22T05:38:12+00:00",
+            "published-time": "2025-03-22T05:39:22+00:00"
         },
         {
             "name": "ramsey/uuid",
@@ -6798,7 +8844,8 @@
                 "issues": "https://github.com/ramsey/uuid/issues",
                 "source": "https://github.com/ramsey/uuid/tree/4.10.0"
             },
-            "time": "2026-11-14T23:23:20+00:00"
+            "time": "2026-11-14T23:23:20+00:00",
+            "published-time": "2026-11-14T23:35:39+00:00"
         },
         {
             "name": "ryangjchandler/blade-capture-directive",
@@ -6876,7 +8923,8 @@
                     "type": "github"
                 }
             ],
-            "time": "2026-03-19T10:36:26+00:00"
+            "time": "2026-03-19T10:36:26+00:00",
+            "published-time": "2026-03-19T10:36:44+00:00"
         },
         {
             "name": "scrivo/highlight.php",
@@ -6954,7 +9002,8 @@
                     "type": "github"
                 }
             ],
-            "time": "2022-12-17T21:53:22+00:00"
+            "time": "2022-12-17T21:53:22+00:00",
+            "published-time": "2022-12-17T21:54:17+00:00"
         },
         {
             "name": "spatie/invade",
@@ -7021,7 +9070,8 @@
                     "type": "github"
                 }
             ],
-            "time": "2026-10-19T16:16:47+00:00"
+            "time": "2026-10-19T16:16:47+00:00",
+            "published-time": "2026-10-19T16:17:14+00:00"
         },
         {
             "name": "spatie/laravel-package-tools",
@@ -7082,7 +9132,8 @@
                     "type": "github"
                 }
             ],
-            "time": "2026-09-28T07:16:50+00:00"
+            "time": "2026-09-28T07:16:50+00:00",
+            "published-time": "2026-09-28T07:17:01+00:00"
         },
         {
             "name": "spatie/laravel-settings",
@@ -7232,7 +9283,8 @@
                     "type": "github"
                 }
             ],
-            "time": "2026-04-27T14:27:52+00:00"
+            "time": "2026-04-27T14:27:52+00:00",
+            "published-time": "2026-04-27T14:28:22+00:00"
         },
         {
             "name": "spatie/temporary-directory",
@@ -7416,7 +9468,8 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2026-10-12T14:32:04+00:00"
+            "time": "2026-10-12T14:32:04+00:00",
+            "published-time": "2026-10-14T06:48:32+00:00"
         },
         {
             "name": "symfony/console",
@@ -7516,7 +9569,8 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2026-11-04T07:07:11+00:00"
+            "time": "2026-11-04T07:07:11+00:00",
+            "published-time": "2026-11-04T11:31:39+00:00"
         },
         {
             "name": "symfony/css-selector",
@@ -7585,7 +9639,8 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2026-10-18T14:56:39+00:00"
+            "time": "2026-10-18T14:56:39+00:00",
+            "published-time": "2026-10-28T18:24:46+00:00"
         },
         {
             "name": "symfony/deprecation-contracts",
@@ -7656,7 +9711,8 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2026-09-16T14:15:10+00:00"
+            "time": "2026-09-16T14:15:10+00:00",
+            "published-time": "2026-11-04T11:25:34+00:00"
         },
         {
             "name": "symfony/error-handler",
@@ -7737,7 +9793,8 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2026-10-25T14:40:25+00:00"
+            "time": "2026-10-25T14:40:25+00:00",
+            "published-time": "2026-10-28T18:24:13+00:00"
         },
         {
             "name": "symfony/event-dispatcher",
@@ -7823,7 +9880,8 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2026-08-21T17:47:34+00:00"
+            "time": "2026-08-21T17:47:34+00:00",
+            "published-time": "2026-08-22T13:46:58+00:00"
         },
         {
             "name": "symfony/event-dispatcher-contracts",
@@ -7903,7 +9961,8 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2026-09-16T14:15:10+00:00"
+            "time": "2026-09-16T14:15:10+00:00",
+            "published-time": "2026-11-04T11:25:36+00:00"
         },
         {
             "name": "symfony/finder",
@@ -7971,20 +10030,21 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2026-11-02T10:58:30+00:00"
+            "time": "2026-11-02T10:58:30+00:00",
+            "published-time": "2026-11-04T11:31:20+00:00"
         },
         {
             "name": "symfony/html-sanitizer",
-            "version": "v8.1.10",
+            "version": "v8.1.11",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/html-sanitizer.git",
-                "reference": "04db2207946727a8793a9bcb8dcfaea6391b5c2a"
+                "reference": "1ecf13d98b75f5d8a2dcc1ffecde7184d29506ef"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/html-sanitizer/zipball/04db2207946727a8793a9bcb8dcfaea6391b5c2a",
-                "reference": "04db2207946727a8793a9bcb8dcfaea6391b5c2a",
+                "url": "https://api.github.com/repos/symfony/html-sanitizer/zipball/1ecf13d98b75f5d8a2dcc1ffecde7184d29506ef",
+                "reference": "1ecf13d98b75f5d8a2dcc1ffecde7184d29506ef",
                 "shasum": ""
             },
             "require": {
@@ -8023,7 +10083,7 @@
                 "sanitizer"
             ],
             "support": {
-                "source": "https://github.com/symfony/html-sanitizer/tree/v8.1.10"
+                "source": "https://github.com/symfony/html-sanitizer/tree/v8.1.11"
             },
             "funding": [
                 {
@@ -8043,7 +10103,8 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2026-10-20T19:26:02+00:00"
+            "time": "2026-11-04T08:39:20+00:00",
+            "published-time": "2026-11-04T11:31:16+00:00"
         },
         {
             "name": "symfony/http-foundation",
@@ -8124,7 +10185,8 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2026-11-04T08:39:20+00:00"
+            "time": "2026-11-04T08:39:20+00:00",
+            "published-time": "2026-11-04T11:31:54+00:00"
         },
         {
             "name": "symfony/http-kernel",
@@ -8234,7 +10296,8 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2026-11-04T11:29:46+00:00"
+            "time": "2026-11-04T11:29:46+00:00",
+            "published-time": "2026-11-04T11:32:19+00:00"
         },
         {
             "name": "symfony/mailer",
@@ -8314,7 +10377,8 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2026-10-23T17:06:53+00:00"
+            "time": "2026-10-23T17:06:53+00:00",
+            "published-time": "2026-10-28T18:23:52+00:00"
         },
         {
             "name": "symfony/mime",
@@ -8400,7 +10464,8 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2026-10-28T17:58:38+00:00"
+            "time": "2026-10-28T17:58:38+00:00",
+            "published-time": "2026-10-28T18:23:55+00:00"
         },
         {
             "name": "symfony/polyfill-ctype",
@@ -8483,7 +10548,8 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2026-04-10T16:19:22+00:00"
+            "time": "2026-04-10T16:19:22+00:00",
+            "published-time": "2026-04-26T14:44:50+00:00"
         },
         {
             "name": "symfony/polyfill-intl-grapheme",
@@ -8565,7 +10631,8 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2026-10-15T09:18:53+00:00"
+            "time": "2026-10-15T09:18:53+00:00",
+            "published-time": "2026-10-28T10:07:44+00:00"
         },
         {
             "name": "symfony/polyfill-intl-idn",
@@ -8652,7 +10719,8 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2026-09-23T14:40:04+00:00"
+            "time": "2026-09-23T14:40:04+00:00",
+            "published-time": "2026-09-30T10:23:39+00:00"
         },
         {
             "name": "symfony/polyfill-intl-normalizer",
@@ -8737,7 +10805,8 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2026-09-23T22:02:09+00:00"
+            "time": "2026-09-23T22:02:09+00:00",
+            "published-time": "2026-09-30T10:23:47+00:00"
         },
         {
             "name": "symfony/polyfill-mbstring",
@@ -8822,7 +10891,8 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2026-10-28T09:35:49+00:00"
+            "time": "2026-10-28T09:35:49+00:00",
+            "published-time": "2026-10-28T10:07:45+00:00"
         },
         {
             "name": "symfony/polyfill-php80",
@@ -8906,7 +10976,8 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2026-09-25T15:50:05+00:00"
+            "time": "2026-09-25T15:50:05+00:00",
+            "published-time": "2026-09-30T10:23:35+00:00"
         },
         {
             "name": "symfony/polyfill-php82",
@@ -8986,7 +11057,8 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2026-09-25T15:50:05+00:00"
+            "time": "2026-09-25T15:50:05+00:00",
+            "published-time": "2026-09-30T10:23:32+00:00"
         },
         {
             "name": "symfony/polyfill-php84",
@@ -9066,7 +11138,8 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2026-09-23T22:01:09+00:00"
+            "time": "2026-09-23T22:01:09+00:00",
+            "published-time": "2026-09-30T10:23:33+00:00"
         },
         {
             "name": "symfony/polyfill-php85",
@@ -9146,7 +11219,8 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2026-10-30T15:20:09+00:00"
+            "time": "2026-10-30T15:20:09+00:00",
+            "published-time": "2026-11-15T14:20:22+00:00"
         },
         {
             "name": "symfony/polyfill-php86",
@@ -9226,7 +11300,8 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2026-09-25T15:46:47+00:00"
+            "time": "2026-09-25T15:46:47+00:00",
+            "published-time": "2026-09-30T10:23:43+00:00"
         },
         {
             "name": "symfony/polyfill-time",
@@ -9309,7 +11384,8 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2026-08-07T13:08:13+00:00"
+            "time": "2026-08-07T13:08:13+00:00",
+            "published-time": "2026-08-24T11:45:15+00:00"
         },
         {
             "name": "symfony/polyfill-uuid",
@@ -9392,7 +11468,8 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2026-09-24T05:20:52+00:00"
+            "time": "2026-09-24T05:20:52+00:00",
+            "published-time": "2026-09-30T10:23:49+00:00"
         },
         {
             "name": "symfony/process",
@@ -9457,7 +11534,8 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2026-10-25T14:40:25+00:00"
+            "time": "2026-10-25T14:40:25+00:00",
+            "published-time": "2026-10-28T18:25:20+00:00"
         },
         {
             "name": "symfony/routing",
@@ -9537,7 +11615,8 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2026-11-04T08:39:20+00:00"
+            "time": "2026-11-04T08:39:20+00:00",
+            "published-time": "2026-11-04T11:30:59+00:00"
         },
         {
             "name": "symfony/service-contracts",
@@ -9624,7 +11703,8 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2026-10-20T17:38:25+00:00"
+            "time": "2026-10-20T17:38:25+00:00",
+            "published-time": "2026-11-04T11:25:33+00:00"
         },
         {
             "name": "symfony/string",
@@ -9714,7 +11794,8 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2026-10-23T17:06:53+00:00"
+            "time": "2026-10-23T17:06:53+00:00",
+            "published-time": "2026-10-28T18:24:27+00:00"
         },
         {
             "name": "symfony/translation",
@@ -9807,7 +11888,8 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2026-11-01T22:27:46+00:00"
+            "time": "2026-11-01T22:27:46+00:00",
+            "published-time": "2026-11-04T11:31:54+00:00"
         },
         {
             "name": "symfony/translation-contracts",
@@ -9889,7 +11971,8 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2026-10-03T08:17:19+00:00"
+            "time": "2026-10-03T08:17:19+00:00",
+            "published-time": "2026-11-04T11:25:31+00:00"
         },
         {
             "name": "symfony/uid",
@@ -9967,7 +12050,8 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2026-10-12T14:32:04+00:00"
+            "time": "2026-10-12T14:32:04+00:00",
+            "published-time": "2026-10-14T06:48:53+00:00"
         },
         {
             "name": "symfony/var-dumper",
@@ -10054,7 +12138,8 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2026-10-26T21:55:04+00:00"
+            "time": "2026-10-26T21:55:04+00:00",
+            "published-time": "2026-10-28T18:25:26+00:00"
         },
         {
             "name": "tijsverkoyen/css-to-inline-styles",
@@ -10109,7 +12194,8 @@
                 "issues": "https://github.com/tijsverkoyen/CssToInlineStyles/issues",
                 "source": "https://github.com/tijsverkoyen/CssToInlineStyles/tree/v2.4.0"
             },
-            "time": "2025-12-02T11:56:42+00:00"
+            "time": "2025-12-02T11:56:42+00:00",
+            "published-time": "2025-12-11T21:29:16+00:00"
         },
         {
             "name": "ueberdosis/tiptap-php",
@@ -10178,7 +12264,8 @@
                     "type": "open_collective"
                 }
             ],
-            "time": "2026-10-19T10:48:00+00:00"
+            "time": "2026-10-19T10:48:00+00:00",
+            "published-time": "2026-10-19T11:01:15+00:00"
         },
         {
             "name": "vlucas/phpdotenv",
@@ -10262,7 +12349,8 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2026-10-25T16:26:19+00:00"
+            "time": "2026-10-25T16:26:19+00:00",
+            "published-time": "2026-10-25T16:26:50+00:00"
         },
         {
             "name": "voku/portable-ascii",
@@ -10336,7 +12424,8 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2026-04-26T05:33:54+00:00"
+            "time": "2026-04-26T05:33:54+00:00",
+            "published-time": "2026-04-26T05:43:38+00:00"
         },
         {
             "name": "wallacemartinss/filament-icon-picker",
@@ -11072,7 +13161,8 @@
                 "issues": "https://github.com/hamcrest/hamcrest-php/issues",
                 "source": "https://github.com/hamcrest/hamcrest-php/tree/v3.0.0"
             },
-            "time": "2026-03-17T11:56:53+00:00"
+            "time": "2026-03-17T11:56:53+00:00",
+            "published-time": "2026-06-16T10:52:40+00:00"
         },
         {
             "name": "iamcal/sql-parser",
@@ -11557,7 +13647,8 @@
                 "security": "https://github.com/mockery/mockery/security/advisories",
                 "source": "https://github.com/mockery/mockery"
             },
-            "time": "2026-08-19T19:37:52+00:00"
+            "time": "2026-08-19T19:37:52+00:00",
+            "published-time": "2026-08-19T19:38:57+00:00"
         },
         {
             "name": "myclabs/deep-copy",
@@ -12529,7 +14620,8 @@
                 "issues": "https://github.com/phpDocumentor/ReflectionDocBlock/issues",
                 "source": "https://github.com/phpDocumentor/ReflectionDocBlock/tree/6.0.3"
             },
-            "time": "2026-03-18T20:49:53+00:00"
+            "time": "2026-03-18T20:49:53+00:00",
+            "published-time": "2026-03-18T20:51:16+00:00"
         },
         {
             "name": "phpstan/phpstan",
@@ -12593,7 +14685,8 @@
                     "type": "github"
                 }
             ],
-            "time": "2026-11-03T12:14:22+00:00"
+            "time": "2026-11-03T12:14:22+00:00",
+            "published-time": "2026-11-03T12:14:36+00:00"
         },
         {
             "name": "phpunit/php-code-coverage",
@@ -14240,7 +16333,8 @@
                 "issues": "https://github.com/webmozarts/assert/issues",
                 "source": "https://github.com/webmozarts/assert/tree/2.5.1"
             },
-            "time": "2026-11-15T13:41:13+00:00"
+            "time": "2026-11-15T13:41:13+00:00",
+            "published-time": "2026-11-15T13:41:42+00:00"
         }
     ],
     "aliases": [],
@@ -14257,5 +16351,5 @@
         "ext-pcntl": "7.1",
         "ext-posix": "7.1"
     },
-    "plugin-api-version": "2.9.0"
+    "plugin-api-version": "2.11.0"
 }
