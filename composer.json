@@ -50,7 +50,7 @@
         "jeffersongoncalves/laravel-lgpd-ripd": "^1.0",
         "jeffersongoncalves/laravel-lgpd-takedown": "^1.0",
         "jeffersongoncalves/laravel-lgpd-vendors": "^1.0",
-        "jeffersongoncalves/laravel-security-headers": "2.1",
+        "jeffersongoncalves/laravel-security-headers": "^2.1",
         "joaopaulolndev/filament-edit-profile": "^2.0",
         "laravel/framework": "^13.0",
         "laravel/tinker": "^3.0",
